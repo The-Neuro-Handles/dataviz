@@ -90,6 +90,9 @@ function NavBar() {
         <ListItem sx={{ '--List-gap': '0px' }} onClick={() =>setSelected_state("PL March")}>
           <Link href="/PL_March" passHref><ListItemButton selected={selected_state === "PL March"}>PL March</ListItemButton></Link>
         </ListItem>
+        <ListItem sx={{ '--List-gap': '0px' }} onClick={() =>setSelected_state("Amazon Sales")}>
+          <Link href="/Amazon_Sales" passHref><ListItemButton selected={selected_state === "Amazon Sales"}>Amazon Sales</ListItemButton></Link>
+        </ListItem>
         <ListItem
           nested
           sx={{ my: 1 }}
