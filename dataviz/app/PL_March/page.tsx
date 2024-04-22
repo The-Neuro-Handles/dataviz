@@ -2,6 +2,7 @@
 import * as React from 'react'
 
 import Sku_MRP from './Sku_MRP'
+import Fixed_Card from '../../components/Fixed_Card'
 
 import { createTheme, ThemeProvider } from '@mui/material/styles';
 
@@ -20,6 +21,8 @@ export default function PL_March() {
       PL_MARCH
 
       <Sku_MRP />
+
+      
 
     </div>
     </ThemeProvider>
