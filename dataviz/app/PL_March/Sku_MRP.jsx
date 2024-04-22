@@ -2,7 +2,7 @@
 import * as React from 'react'
 import Card from '@mui/joy/Card';
 import * as d3 from "d3";
-
+import Typography from '@mui/joy/Typography';
 
 import { BarChart } from '@mui/x-charts/BarChart';
 import Fixed_Card from '@/components/Fixed_Card';
@@ -94,7 +94,9 @@ export default function Sku_MRP() {
  
   return (
     <Fixed_Card>
-        <h1>SKU MRP</h1>
+        <Typography level="h6" component="h6">
+          SKU vs MRP
+        </Typography>
         
         <BarChart
         {...barChartsParams}
