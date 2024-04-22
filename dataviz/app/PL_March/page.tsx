@@ -19,13 +19,10 @@ export default function PL_March() {
     <ThemeProvider theme={theme}>
     <div className='p-5'>
       PL_MARCH
-
       <Sku_MRP />
       <Fixed_Card>
         <div>Fixed Card</div>
       </Fixed_Card>
-      
-
     </div>
     </ThemeProvider>
   )
