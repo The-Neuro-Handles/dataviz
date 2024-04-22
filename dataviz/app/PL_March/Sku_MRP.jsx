@@ -2,9 +2,10 @@
 import * as React from 'react'
 import Card from '@mui/joy/Card';
 import * as d3 from "d3";
-
+import Typography from '@mui/joy/Typography';
 
 import { BarChart } from '@mui/x-charts/BarChart';
+import Fixed_Card from '@/components/Fixed_Card';
 
 
 const barChartsParams = {
@@ -92,25 +93,16 @@ export default function Sku_MRP() {
   };
  
   return (
-    <Card
-      data-resizable
-      sx={{
-        textAlign: 'center',
-        alignItems: 'center',
-        width: 343,
-        // to make the demo resizable
-        //overflow: 'auto',
-        //resize: 'both',
-        //'--icon-size': '100px',
-      }}
-    >
-        <h1>SKU MRP</h1>
+    <Fixed_Card>
+        <Typography level="h6" component="h6">
+          SKU vs MRP
+        </Typography>
         
         <BarChart
         {...barChartsParams}
         onItemClick={(event, d) => setItemData(d)}
         onAxisClick={(event, d) => setAxisData(d)}
         ></BarChart>
-    </Card>
+    </Fixed_Card>
   )
 }
