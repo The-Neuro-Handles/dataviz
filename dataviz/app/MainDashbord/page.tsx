@@ -1,36 +1,21 @@
-'use client';
-import { Card } from '@mui/joy';
-import * as React from 'react';
+"use client"
+import React from 'react'
+import TestLinearPlot from '../../components/Plots/test'
+import Plot_Amazon_Linear from '../../components/Plots/Plot_Amazon_Linear'  
+import LinearPlot from '../../components/Plots/LinearPlot'
+import Population_PieChart from '../../components/Plots/Population_PieChart'
 
-import { styled } from '@mui/material/styles';
-import Paper from '@mui/material/Paper';
-import Masonry from '@mui/lab/Masonry';
-
-import D3Example from '../../components/Plots/example'
-
-const heights = [150, 30, 90, 70, 110, 150, 130, 80, 50, 90, 100, 150, 30, 50, 80];
-
-
-
-
-function MainDashbord() {
+function MainDashboard() {
+  // var data={Plot_Amazon_Linear}  
   return (
-    <>
-    <D3Example/>
+  <>
+    {/* <TestLinearPlot/> */}
+    {/* <LinearPlot data={data} /> */}
+    {/* <Plot_Amazon_Linear/> */}
+    <Population_PieChart/>
 
-    {/*<Masonry columns={4} spacing={2} >
-    {heights.map((height, index) => (
-      <>
-      <Card key={index} variant="soft" sx={{height:height}}>
-        <Example/>
-        
-      </Card>
-      
-      </>
-    ))}
-  </Masonry>*/}
- </>
+    </>
   )
 }
 
-export default MainDashbord
+export default MainDashboard

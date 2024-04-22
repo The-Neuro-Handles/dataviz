@@ -7,7 +7,7 @@ import { BarChart } from '@mui/x-charts/BarChart';
 
 export default function D3Example() {
     useEffect(() => {
-        d3.csv("https://raw.githubusercontent.com/The-Neuro-Handles/dataviz/main/cleaned_dataset/Cleaned_PLMarch.csv", d3.autoType).then(data => {
+        d3.csv("https://raw.githubusercontent.com/The-Neuro-Handles/dataviz/main/cleaned_dataset/Cleaned_AmazonSale.csv", d3.autoType).then(data => {
             const columnData = data.map(d => d.Sku);
             const counts = {};
             columnData.forEach(value => {
