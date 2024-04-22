@@ -21,7 +21,9 @@ export default function PL_March() {
       PL_MARCH
 
       <Sku_MRP />
-
+      <Fixed_Card>
+        <div>Fixed Card</div>
+      </Fixed_Card>
       
 
     </div>

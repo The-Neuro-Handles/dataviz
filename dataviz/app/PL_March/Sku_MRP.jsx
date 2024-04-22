@@ -5,6 +5,7 @@ import * as d3 from "d3";
 
 
 import { BarChart } from '@mui/x-charts/BarChart';
+import Fixed_Card from '@/components/Fixed_Card';
 
 
 const barChartsParams = {
@@ -92,18 +93,7 @@ export default function Sku_MRP() {
   };
  
   return (
-    <Card
-      data-resizable
-      sx={{
-        textAlign: 'center',
-        alignItems: 'center',
-        width: 343,
-        // to make the demo resizable
-        //overflow: 'auto',
-        //resize: 'both',
-        //'--icon-size': '100px',
-      }}
-    >
+    <Fixed_Card>
         <h1>SKU MRP</h1>
         
         <BarChart
@@ -111,6 +101,6 @@ export default function Sku_MRP() {
         onItemClick={(event, d) => setItemData(d)}
         onAxisClick={(event, d) => setAxisData(d)}
         ></BarChart>
-    </Card>
+    </Fixed_Card>
   )
 }
