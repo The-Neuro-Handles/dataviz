@@ -10,11 +10,19 @@ import DashboardIcon from '@mui/icons-material/Dashboard';
 import KeyboardArrowDown from '@mui/icons-material/KeyboardArrowDown';
 import { Card } from '@mui/material';
 import DataThresholdingIcon from '@mui/icons-material/DataThresholding';
+import Link from 'next/link';
 
 
 function NavBar() {
   const [open, setOpen] = React.useState(false);
   const [open2, setOpen2] = React.useState(false);
+
+  const [selected_state, setSelected_state] = React.useState("Overview");
+  const handleClick = (val) => {
+    setSelected_state(val);
+  };
+  
+
   return (
     <nav className="overscroll-y-none	bg-gray-950 h-screen">
     <Box sx={{ width: 200, 
@@ -26,11 +34,15 @@ function NavBar() {
     padding: '1rem',
     }}>
       <Card className='flex justify-center w-full py-1'>
+
+      <Link href="https://www.waisum.co/" passHref>
         <Typography 
         level='h6'
         startDecorator={<DataThresholdingIcon />}
         >wAISum</Typography>
+        </Link> 
       </Card>
+       
       <List
         size="sm"
         sx={(theme) => ({
@@ -62,19 +74,21 @@ function NavBar() {
         })}
       >
         <ListItem nested>
-          <ListItem component="div" startAction={<DashboardIcon />}>
+          
+            <ListItem component="div" startAction={<DashboardIcon />}>
             <Typography level="body-xs" sx={{ textTransform: 'uppercase' }}>
               Dashboard
             </Typography>
           </ListItem>
+          
           <List sx={{ '--List-gap': '0px' }}>
-            <ListItem>
-              <ListItemButton selected>Overview</ListItemButton>
+            <ListItem onClick={() =>setSelected_state("Overview")}>
+              <Link href="/" passHref><ListItemButton selected={selected_state === "Overview"}>Overview</ListItemButton></Link>
             </ListItem>
           </List>
         </ListItem>
-        <ListItem sx={{ '--List-gap': '0px' }}>
-          <ListItemButton>Quick Start</ListItemButton>
+        <ListItem sx={{ '--List-gap': '0px' }} onClick={() =>setSelected_state("PL March")}>
+          <Link href="/PL_March" passHref><ListItemButton selected={selected_state === "PL March"}>PL March</ListItemButton></Link>
         </ListItem>
         <ListItem
           nested

@@ -4,27 +4,39 @@ import {useEffect, useRef, useState} from "react";
 import { BarChart } from '@mui/x-charts/BarChart';
 
 
+import BarPlot  from "./Barplot";
 
 export default function D3Example() {
+    const [data_c, setData] = useState([]);
+    const [count, setCount] = useState([]);
     useEffect(() => {
         d3.csv("https://raw.githubusercontent.com/The-Neuro-Handles/dataviz/main/cleaned_dataset/Cleaned_PLMarch.csv", d3.autoType).then(data => {
             const columnData = data.map(d => d.Sku);
+            
             const counts = {};
             columnData.forEach(value => {
                 counts[value] = (counts[value] || 0) + 1;
             });
-            console.log(counts);
+
+
+            const fin_data = [];
+            const fin_data_count = [];
+            for (const [key, value] of Object.entries(counts)) {
+                fin_data.push({label: key, value: value});
+                fin_data_count.push(value);
+            }
+            setData(fin_data);
+            setCount(fin_data_count);
         });
 
       }, []);
     
   return (
-    <BarChart
-      xAxis={[{ scaleType: 'band', data: ['group A', 'group B', 'group C'] }]}
-      series={[{ data: [4, 3, 5] }, { data: [1, 6, 3] }, { data: [2, 5, 6] }]}
-      width={500}
-      height={300}
-    />
+        <div>
+            <h1>Bar Plot Example</h1>
+            {data_c && <BarPlot data={data_c} />}
+            
+        </div>
   );
 }
 
