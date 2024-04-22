@@ -1,1 +1,11 @@
-{"size": ["M", "L", "XL", "XXL", "S", "3XL", "XS", "6XL", "5XL", "4XL", "Free"], "values": [19159, 18556, 17630, 15293, 14288, 12366, 9154, 624, 482, 358, 309]}
+[{'size': 'M', 'values': 19159},
+ {'size': 'L', 'values': 18556},
+ {'size': 'XL', 'values': 17630},
+ {'size': 'XXL', 'values': 15293},
+ {'size': 'S', 'values': 14288},
+ {'size': '3XL', 'values': 12366},
+ {'size': 'XS', 'values': 9154},
+ {'size': '6XL', 'values': 624},
+ {'size': '5XL', 'values': 482},
+ {'size': '4XL', 'values': 358},
+ {'size': 'Free', 'values': 309}]
