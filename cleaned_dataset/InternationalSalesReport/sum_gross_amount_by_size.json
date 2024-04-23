@@ -1,54 +1,52 @@
-[
-    {
-        "data": [
-            {
-                "Size": "4XL",
-                "GROSS AMT": 50203.0
-            },
-            {
-                "Size": "5XL",
-                "GROSS AMT": 62491.0
-            },
-            {
-                "Size": "6XL",
-                "GROSS AMT": 59175.0
-            },
-            {
-                "Size": "FREE",
-                "GROSS AMT": 4488.0
-            },
-            {
-                "Size": "L",
-                "GROSS AMT": 2929450.0
-            },
-            {
-                "Size": "M",
-                "GROSS AMT": 2736527.0
-            },
-            {
-                "Size": "PCS",
-                "GROSS AMT": 0.0
-            },
-            {
-                "Size": "S",
-                "GROSS AMT": 1968106.0
-            },
-            {
-                "Size": "XL",
-                "GROSS AMT": 2473104.0
-            },
-            {
-                "Size": "XS",
-                "GROSS AMT": 606579.0
-            },
-            {
-                "Size": "XXL",
-                "GROSS AMT": 1918798.0
-            },
-            {
-                "Size": "XXXL",
-                "GROSS AMT": 1224803.0
-            }
-        ]
-    }
-]
+{
+    "data": [
+        {
+            "GROSS AMT": 50203.0,
+            "Size": "4XL"
+        },
+        {
+            "GROSS AMT": 62491.0,
+            "Size": "5XL"
+        },
+        {
+            "GROSS AMT": 59175.0,
+            "Size": "6XL"
+        },
+        {
+            "GROSS AMT": 4488.0,
+            "Size": "FREE"
+        },
+        {
+            "GROSS AMT": 2929450.0,
+            "Size": "L"
+        },
+        {
+            "GROSS AMT": 2736527.0,
+            "Size": "M"
+        },
+        {
+            "GROSS AMT": 0.0,
+            "Size": "PCS"
+        },
+        {
+            "GROSS AMT": 1968106.0,
+            "Size": "S"
+        },
+        {
+            "GROSS AMT": 2473104.0,
+            "Size": "XL"
+        },
+        {
+            "GROSS AMT": 606579.0,
+            "Size": "XS"
+        },
+        {
+            "GROSS AMT": 1918798.0,
+            "Size": "XXL"
+        },
+        {
+            "GROSS AMT": 1224803.0,
+            "Size": "XXXL"
+        }
+    ]
+}
