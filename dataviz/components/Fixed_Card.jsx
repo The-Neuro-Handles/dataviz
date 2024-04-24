@@ -16,7 +16,7 @@ export default function Fixed_Card({children}) {
       sx={{
         textAlign: 'center',
         alignItems: 'center',
-        width: 343,
+        width: "auto",
       }}
       
     >
