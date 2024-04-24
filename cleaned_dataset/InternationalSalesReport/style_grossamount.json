@@ -1,0 +1,3986 @@
+[
+    {
+        "Style": "AN202",
+        "GROSS AMT": 1484.0
+    },
+    {
+        "Style": "AN204",
+        "GROSS AMT": 285.0
+    },
+    {
+        "Style": "AN205",
+        "GROSS AMT": 871.0
+    },
+    {
+        "Style": "AN209",
+        "GROSS AMT": 291.0
+    },
+    {
+        "Style": "BL009",
+        "GROSS AMT": 1192.0
+    },
+    {
+        "Style": "BL011",
+        "GROSS AMT": 309.0
+    },
+    {
+        "Style": "BL013",
+        "GROSS AMT": 765.0
+    },
+    {
+        "Style": "BL014",
+        "GROSS AMT": 285.0
+    },
+    {
+        "Style": "BL020",
+        "GROSS AMT": 1336.0
+    },
+    {
+        "Style": "BL023",
+        "GROSS AMT": 411.0
+    },
+    {
+        "Style": "BL024",
+        "GROSS AMT": 446.0
+    },
+    {
+        "Style": "BL025",
+        "GROSS AMT": 479.0
+    },
+    {
+        "Style": "BL026",
+        "GROSS AMT": 423.0
+    },
+    {
+        "Style": "BL030",
+        "GROSS AMT": 1176.0
+    },
+    {
+        "Style": "BL050",
+        "GROSS AMT": 384.0
+    },
+    {
+        "Style": "BL055",
+        "GROSS AMT": 649.0
+    },
+    {
+        "Style": "BL078",
+        "GROSS AMT": 1244.0
+    },
+    {
+        "Style": "BL084",
+        "GROSS AMT": 1256.0
+    },
+    {
+        "Style": "BL085",
+        "GROSS AMT": 3790.0
+    },
+    {
+        "Style": "BL086",
+        "GROSS AMT": 2466.0
+    },
+    {
+        "Style": "BL087",
+        "GROSS AMT": 4173.0
+    },
+    {
+        "Style": "BL091",
+        "GROSS AMT": 435.0
+    },
+    {
+        "Style": "BL092",
+        "GROSS AMT": 3436.0
+    },
+    {
+        "Style": "BL093",
+        "GROSS AMT": 3331.0
+    },
+    {
+        "Style": "BL097",
+        "GROSS AMT": 2056.0
+    },
+    {
+        "Style": "BL098",
+        "GROSS AMT": 361.0
+    },
+    {
+        "Style": "BL099",
+        "GROSS AMT": 2565.0
+    },
+    {
+        "Style": "BL100",
+        "GROSS AMT": 3480.0
+    },
+    {
+        "Style": "BL102",
+        "GROSS AMT": 330.0
+    },
+    {
+        "Style": "BL103",
+        "GROSS AMT": 2017.0
+    },
+    {
+        "Style": "BL104",
+        "GROSS AMT": 4805.0
+    },
+    {
+        "Style": "BL107",
+        "GROSS AMT": 3222.0
+    },
+    {
+        "Style": "BL109",
+        "GROSS AMT": 1694.0
+    },
+    {
+        "Style": "BL110",
+        "GROSS AMT": 4970.0
+    },
+    {
+        "Style": "BL111",
+        "GROSS AMT": 3390.0
+    },
+    {
+        "Style": "BL113",
+        "GROSS AMT": 4298.0
+    },
+    {
+        "Style": "BTM002",
+        "GROSS AMT": 49141.0
+    },
+    {
+        "Style": "BTM003",
+        "GROSS AMT": 10020.0
+    },
+    {
+        "Style": "BTM005",
+        "GROSS AMT": 47263.0
+    },
+    {
+        "Style": "BTM008",
+        "GROSS AMT": 9591.0
+    },
+    {
+        "Style": "BTM021",
+        "GROSS AMT": 34381.0
+    },
+    {
+        "Style": "BTM026",
+        "GROSS AMT": 2533.0
+    },
+    {
+        "Style": "BTM027",
+        "GROSS AMT": 18683.0
+    },
+    {
+        "Style": "BTM029",
+        "GROSS AMT": 18904.0
+    },
+    {
+        "Style": "BTM030",
+        "GROSS AMT": 21410.0
+    },
+    {
+        "Style": "BTM031",
+        "GROSS AMT": 12727.0
+    },
+    {
+        "Style": "BTM032",
+        "GROSS AMT": 1601.0
+    },
+    {
+        "Style": "BTM033",
+        "GROSS AMT": 676.0
+    },
+    {
+        "Style": "BTM035",
+        "GROSS AMT": 2562.0
+    },
+    {
+        "Style": "BTM036",
+        "GROSS AMT": 3482.0
+    },
+    {
+        "Style": "BTM037",
+        "GROSS AMT": 3524.0
+    },
+    {
+        "Style": "BTM038",
+        "GROSS AMT": 28494.0
+    },
+    {
+        "Style": "BTM039",
+        "GROSS AMT": 33735.0
+    },
+    {
+        "Style": "BTM040",
+        "GROSS AMT": 24939.0
+    },
+    {
+        "Style": "BTM041",
+        "GROSS AMT": 2999.0
+    },
+    {
+        "Style": "BTM042",
+        "GROSS AMT": 15684.0
+    },
+    {
+        "Style": "BTM043",
+        "GROSS AMT": 2264.0
+    },
+    {
+        "Style": "BTM044",
+        "GROSS AMT": 23044.0
+    },
+    {
+        "Style": "BTM045",
+        "GROSS AMT": 3008.0
+    },
+    {
+        "Style": "BTM046",
+        "GROSS AMT": 26884.0
+    },
+    {
+        "Style": "BTM047",
+        "GROSS AMT": 26950.0
+    },
+    {
+        "Style": "BTM048",
+        "GROSS AMT": 23454.0
+    },
+    {
+        "Style": "CH202",
+        "GROSS AMT": 1763.0
+    },
+    {
+        "Style": "CH205",
+        "GROSS AMT": 295.0
+    },
+    {
+        "Style": "CH207",
+        "GROSS AMT": 296.0
+    },
+    {
+        "Style": "CH208",
+        "GROSS AMT": 668.0
+    },
+    {
+        "Style": "CH209",
+        "GROSS AMT": 1019.0
+    },
+    {
+        "Style": "CH213",
+        "GROSS AMT": 1025.0
+    },
+    {
+        "Style": "CMB5",
+        "GROSS AMT": 0.0
+    },
+    {
+        "Style": "J0001",
+        "GROSS AMT": 31614.0
+    },
+    {
+        "Style": "J0002",
+        "GROSS AMT": 39843.0
+    },
+    {
+        "Style": "J0003",
+        "GROSS AMT": 14968.0
+    },
+    {
+        "Style": "J0004",
+        "GROSS AMT": 15214.0
+    },
+    {
+        "Style": "J0005",
+        "GROSS AMT": 16856.0
+    },
+    {
+        "Style": "J0006",
+        "GROSS AMT": 59227.0
+    },
+    {
+        "Style": "J0007",
+        "GROSS AMT": 13189.0
+    },
+    {
+        "Style": "J0008",
+        "GROSS AMT": 30511.0
+    },
+    {
+        "Style": "J0009",
+        "GROSS AMT": 42335.0
+    },
+    {
+        "Style": "J0010",
+        "GROSS AMT": 1108.0
+    },
+    {
+        "Style": "J0011",
+        "GROSS AMT": 11723.0
+    },
+    {
+        "Style": "J0012",
+        "GROSS AMT": 77100.0
+    },
+    {
+        "Style": "J0013",
+        "GROSS AMT": 9733.0
+    },
+    {
+        "Style": "J0014",
+        "GROSS AMT": 47572.0
+    },
+    {
+        "Style": "J0016",
+        "GROSS AMT": 4357.0
+    },
+    {
+        "Style": "J0021",
+        "GROSS AMT": 17565.0
+    },
+    {
+        "Style": "J0022",
+        "GROSS AMT": 3194.0
+    },
+    {
+        "Style": "J0023",
+        "GROSS AMT": 18918.0
+    },
+    {
+        "Style": "J0024",
+        "GROSS AMT": 28713.0
+    },
+    {
+        "Style": "J0025",
+        "GROSS AMT": 2311.0
+    },
+    {
+        "Style": "J0033",
+        "GROSS AMT": 6585.0
+    },
+    {
+        "Style": "J0034",
+        "GROSS AMT": 7032.0
+    },
+    {
+        "Style": "J0035",
+        "GROSS AMT": 16226.0
+    },
+    {
+        "Style": "J0036",
+        "GROSS AMT": 532.0
+    },
+    {
+        "Style": "J0037",
+        "GROSS AMT": 15370.0
+    },
+    {
+        "Style": "J0041",
+        "GROSS AMT": 30053.0
+    },
+    {
+        "Style": "J0042",
+        "GROSS AMT": 9726.0
+    },
+    {
+        "Style": "J0043",
+        "GROSS AMT": 1614.0
+    },
+    {
+        "Style": "J0048",
+        "GROSS AMT": 2151.0
+    },
+    {
+        "Style": "J0057",
+        "GROSS AMT": 15686.0
+    },
+    {
+        "Style": "J0073",
+        "GROSS AMT": 1125.0
+    },
+    {
+        "Style": "J0077",
+        "GROSS AMT": 19560.0
+    },
+    {
+        "Style": "J0078",
+        "GROSS AMT": 12924.0
+    },
+    {
+        "Style": "J0079",
+        "GROSS AMT": 12586.0
+    },
+    {
+        "Style": "J0080",
+        "GROSS AMT": 12181.0
+    },
+    {
+        "Style": "J0081",
+        "GROSS AMT": 33173.0
+    },
+    {
+        "Style": "J0083",
+        "GROSS AMT": 22599.0
+    },
+    {
+        "Style": "J0084",
+        "GROSS AMT": 18765.0
+    },
+    {
+        "Style": "J0085",
+        "GROSS AMT": 1526.0
+    },
+    {
+        "Style": "J0086",
+        "GROSS AMT": 48060.0
+    },
+    {
+        "Style": "J0087",
+        "GROSS AMT": 3920.0
+    },
+    {
+        "Style": "J0088",
+        "GROSS AMT": 1061.0
+    },
+    {
+        "Style": "J0089",
+        "GROSS AMT": 724.0
+    },
+    {
+        "Style": "J0090",
+        "GROSS AMT": 15418.0
+    },
+    {
+        "Style": "J0091",
+        "GROSS AMT": 4318.0
+    },
+    {
+        "Style": "J0092",
+        "GROSS AMT": 9755.0
+    },
+    {
+        "Style": "J0093",
+        "GROSS AMT": 18252.0
+    },
+    {
+        "Style": "J0094",
+        "GROSS AMT": 88931.0
+    },
+    {
+        "Style": "J0095",
+        "GROSS AMT": 2094.0
+    },
+    {
+        "Style": "J0096",
+        "GROSS AMT": 15721.0
+    },
+    {
+        "Style": "J0097",
+        "GROSS AMT": 35506.0
+    },
+    {
+        "Style": "J0098",
+        "GROSS AMT": 14653.0
+    },
+    {
+        "Style": "J0100",
+        "GROSS AMT": 2318.0
+    },
+    {
+        "Style": "J0101",
+        "GROSS AMT": 29711.0
+    },
+    {
+        "Style": "J0102",
+        "GROSS AMT": 21594.0
+    },
+    {
+        "Style": "J0103",
+        "GROSS AMT": 20890.0
+    },
+    {
+        "Style": "J0104",
+        "GROSS AMT": 2345.0
+    },
+    {
+        "Style": "J0105",
+        "GROSS AMT": 23654.0
+    },
+    {
+        "Style": "J0108",
+        "GROSS AMT": 1249.0
+    },
+    {
+        "Style": "J0109",
+        "GROSS AMT": 22719.0
+    },
+    {
+        "Style": "J0110",
+        "GROSS AMT": 28027.0
+    },
+    {
+        "Style": "J0112",
+        "GROSS AMT": 4140.0
+    },
+    {
+        "Style": "J0113",
+        "GROSS AMT": 5056.0
+    },
+    {
+        "Style": "J0114",
+        "GROSS AMT": 6233.0
+    },
+    {
+        "Style": "J0115",
+        "GROSS AMT": 3260.0
+    },
+    {
+        "Style": "J0116",
+        "GROSS AMT": 855.0
+    },
+    {
+        "Style": "J0117",
+        "GROSS AMT": 3781.0
+    },
+    {
+        "Style": "J0118",
+        "GROSS AMT": 39445.0
+    },
+    {
+        "Style": "J0119",
+        "GROSS AMT": 20856.0
+    },
+    {
+        "Style": "J0120",
+        "GROSS AMT": 19416.0
+    },
+    {
+        "Style": "J0121",
+        "GROSS AMT": 2712.0
+    },
+    {
+        "Style": "J0122",
+        "GROSS AMT": 2931.0
+    },
+    {
+        "Style": "J0123",
+        "GROSS AMT": 9544.0
+    },
+    {
+        "Style": "J0126",
+        "GROSS AMT": 33508.0
+    },
+    {
+        "Style": "J0127",
+        "GROSS AMT": 10676.0
+    },
+    {
+        "Style": "J0129",
+        "GROSS AMT": 55445.0
+    },
+    {
+        "Style": "J0130",
+        "GROSS AMT": 64335.0
+    },
+    {
+        "Style": "J0131",
+        "GROSS AMT": 9199.0
+    },
+    {
+        "Style": "J0132",
+        "GROSS AMT": 10372.0
+    },
+    {
+        "Style": "J0133",
+        "GROSS AMT": 1311.0
+    },
+    {
+        "Style": "J0134",
+        "GROSS AMT": 6298.0
+    },
+    {
+        "Style": "J0135",
+        "GROSS AMT": 11811.0
+    },
+    {
+        "Style": "J0136",
+        "GROSS AMT": 15120.0
+    },
+    {
+        "Style": "J0137",
+        "GROSS AMT": 6860.0
+    },
+    {
+        "Style": "J0138",
+        "GROSS AMT": 30714.0
+    },
+    {
+        "Style": "J0139",
+        "GROSS AMT": 16525.0
+    },
+    {
+        "Style": "J0140",
+        "GROSS AMT": 4219.0
+    },
+    {
+        "Style": "J0142",
+        "GROSS AMT": 6303.0
+    },
+    {
+        "Style": "J0143",
+        "GROSS AMT": 8853.0
+    },
+    {
+        "Style": "J0144",
+        "GROSS AMT": 3956.0
+    },
+    {
+        "Style": "J0145",
+        "GROSS AMT": 5216.0
+    },
+    {
+        "Style": "J0147",
+        "GROSS AMT": 23898.0
+    },
+    {
+        "Style": "J0148",
+        "GROSS AMT": 18169.0
+    },
+    {
+        "Style": "J0151",
+        "GROSS AMT": 10913.0
+    },
+    {
+        "Style": "J0152",
+        "GROSS AMT": 32377.0
+    },
+    {
+        "Style": "J0153",
+        "GROSS AMT": 11010.0
+    },
+    {
+        "Style": "J0154",
+        "GROSS AMT": 15113.0
+    },
+    {
+        "Style": "J0157",
+        "GROSS AMT": 10780.0
+    },
+    {
+        "Style": "J0158",
+        "GROSS AMT": 7093.0
+    },
+    {
+        "Style": "J0159",
+        "GROSS AMT": 18170.0
+    },
+    {
+        "Style": "J0161",
+        "GROSS AMT": 17164.0
+    },
+    {
+        "Style": "J0162",
+        "GROSS AMT": 5134.0
+    },
+    {
+        "Style": "J0164",
+        "GROSS AMT": 1122.0
+    },
+    {
+        "Style": "J0165",
+        "GROSS AMT": 5476.0
+    },
+    {
+        "Style": "J0166",
+        "GROSS AMT": 19241.0
+    },
+    {
+        "Style": "J0167",
+        "GROSS AMT": 4276.0
+    },
+    {
+        "Style": "J0170",
+        "GROSS AMT": 2400.0
+    },
+    {
+        "Style": "J0171",
+        "GROSS AMT": 11907.0
+    },
+    {
+        "Style": "J0172",
+        "GROSS AMT": 22925.0
+    },
+    {
+        "Style": "J0173",
+        "GROSS AMT": 3925.0
+    },
+    {
+        "Style": "J0174",
+        "GROSS AMT": 4486.0
+    },
+    {
+        "Style": "J0175",
+        "GROSS AMT": 718.0
+    },
+    {
+        "Style": "J0176",
+        "GROSS AMT": 18627.0
+    },
+    {
+        "Style": "J0177",
+        "GROSS AMT": 7955.0
+    },
+    {
+        "Style": "J0178",
+        "GROSS AMT": 17404.0
+    },
+    {
+        "Style": "J0179",
+        "GROSS AMT": 9799.0
+    },
+    {
+        "Style": "J0180",
+        "GROSS AMT": 3477.0
+    },
+    {
+        "Style": "J0182",
+        "GROSS AMT": 4430.0
+    },
+    {
+        "Style": "J0183",
+        "GROSS AMT": 9929.0
+    },
+    {
+        "Style": "J0184",
+        "GROSS AMT": 2276.0
+    },
+    {
+        "Style": "J0185",
+        "GROSS AMT": 25156.0
+    },
+    {
+        "Style": "J0186",
+        "GROSS AMT": 23166.0
+    },
+    {
+        "Style": "J0187",
+        "GROSS AMT": 7069.0
+    },
+    {
+        "Style": "J0188",
+        "GROSS AMT": 5279.0
+    },
+    {
+        "Style": "J0189",
+        "GROSS AMT": 3043.0
+    },
+    {
+        "Style": "J0190",
+        "GROSS AMT": 2352.0
+    },
+    {
+        "Style": "J0192",
+        "GROSS AMT": 2100.0
+    },
+    {
+        "Style": "J0194",
+        "GROSS AMT": 27234.0
+    },
+    {
+        "Style": "J0195",
+        "GROSS AMT": 11041.0
+    },
+    {
+        "Style": "J0196",
+        "GROSS AMT": 31004.0
+    },
+    {
+        "Style": "J0197",
+        "GROSS AMT": 48931.0
+    },
+    {
+        "Style": "J0198",
+        "GROSS AMT": 19007.0
+    },
+    {
+        "Style": "J0199",
+        "GROSS AMT": 1774.0
+    },
+    {
+        "Style": "J0201",
+        "GROSS AMT": 42100.0
+    },
+    {
+        "Style": "J0202",
+        "GROSS AMT": 34704.0
+    },
+    {
+        "Style": "J0203",
+        "GROSS AMT": 19949.0
+    },
+    {
+        "Style": "J0204",
+        "GROSS AMT": 9887.0
+    },
+    {
+        "Style": "J0205",
+        "GROSS AMT": 6962.0
+    },
+    {
+        "Style": "J0207",
+        "GROSS AMT": 16533.0
+    },
+    {
+        "Style": "J0208",
+        "GROSS AMT": 17079.0
+    },
+    {
+        "Style": "J0209",
+        "GROSS AMT": 6633.0
+    },
+    {
+        "Style": "J0210",
+        "GROSS AMT": 22046.0
+    },
+    {
+        "Style": "J0211",
+        "GROSS AMT": 17307.0
+    },
+    {
+        "Style": "J0212",
+        "GROSS AMT": 18927.0
+    },
+    {
+        "Style": "J0213",
+        "GROSS AMT": 25387.0
+    },
+    {
+        "Style": "J0214",
+        "GROSS AMT": 26715.0
+    },
+    {
+        "Style": "J0217",
+        "GROSS AMT": 1238.0
+    },
+    {
+        "Style": "J0224",
+        "GROSS AMT": 25746.0
+    },
+    {
+        "Style": "J0225",
+        "GROSS AMT": 44940.0
+    },
+    {
+        "Style": "J0226",
+        "GROSS AMT": 32201.0
+    },
+    {
+        "Style": "J0228",
+        "GROSS AMT": 6339.0
+    },
+    {
+        "Style": "J0230",
+        "GROSS AMT": 73165.0
+    },
+    {
+        "Style": "J0232",
+        "GROSS AMT": 3834.0
+    },
+    {
+        "Style": "J0233",
+        "GROSS AMT": 1497.0
+    },
+    {
+        "Style": "J0234",
+        "GROSS AMT": 2416.0
+    },
+    {
+        "Style": "J0235",
+        "GROSS AMT": 15554.0
+    },
+    {
+        "Style": "J0236",
+        "GROSS AMT": 25936.0
+    },
+    {
+        "Style": "J0237",
+        "GROSS AMT": 46814.0
+    },
+    {
+        "Style": "J0238",
+        "GROSS AMT": 11441.0
+    },
+    {
+        "Style": "J0239",
+        "GROSS AMT": 61705.0
+    },
+    {
+        "Style": "J0240",
+        "GROSS AMT": 14274.0
+    },
+    {
+        "Style": "J0241",
+        "GROSS AMT": 37118.0
+    },
+    {
+        "Style": "J0242",
+        "GROSS AMT": 112291.0
+    },
+    {
+        "Style": "J0243",
+        "GROSS AMT": 69747.0
+    },
+    {
+        "Style": "J0244",
+        "GROSS AMT": 22527.0
+    },
+    {
+        "Style": "J0245",
+        "GROSS AMT": 26124.0
+    },
+    {
+        "Style": "J0246",
+        "GROSS AMT": 39891.0
+    },
+    {
+        "Style": "J0247",
+        "GROSS AMT": 9322.0
+    },
+    {
+        "Style": "J0248",
+        "GROSS AMT": 22224.0
+    },
+    {
+        "Style": "J0249",
+        "GROSS AMT": 30267.0
+    },
+    {
+        "Style": "J0250",
+        "GROSS AMT": 7506.0
+    },
+    {
+        "Style": "J0251",
+        "GROSS AMT": 3162.0
+    },
+    {
+        "Style": "J0252",
+        "GROSS AMT": 39225.0
+    },
+    {
+        "Style": "J0254",
+        "GROSS AMT": 6225.0
+    },
+    {
+        "Style": "J0277",
+        "GROSS AMT": 150251.0
+    },
+    {
+        "Style": "J0278",
+        "GROSS AMT": 22620.0
+    },
+    {
+        "Style": "J0279",
+        "GROSS AMT": 29164.0
+    },
+    {
+        "Style": "J0280",
+        "GROSS AMT": 6984.0
+    },
+    {
+        "Style": "J0281",
+        "GROSS AMT": 13958.0
+    },
+    {
+        "Style": "J0282",
+        "GROSS AMT": 36384.0
+    },
+    {
+        "Style": "J0283",
+        "GROSS AMT": 37249.0
+    },
+    {
+        "Style": "J0284",
+        "GROSS AMT": 83588.0
+    },
+    {
+        "Style": "J0285",
+        "GROSS AMT": 72176.0
+    },
+    {
+        "Style": "J0291",
+        "GROSS AMT": 681.0
+    },
+    {
+        "Style": "J0292",
+        "GROSS AMT": 10583.0
+    },
+    {
+        "Style": "J0293",
+        "GROSS AMT": 2722.0
+    },
+    {
+        "Style": "J0294",
+        "GROSS AMT": 2746.0
+    },
+    {
+        "Style": "J0295",
+        "GROSS AMT": 13217.0
+    },
+    {
+        "Style": "J0296",
+        "GROSS AMT": 10838.0
+    },
+    {
+        "Style": "J0297",
+        "GROSS AMT": 9517.0
+    },
+    {
+        "Style": "J0298",
+        "GROSS AMT": 1262.0
+    },
+    {
+        "Style": "J0300",
+        "GROSS AMT": 1912.0
+    },
+    {
+        "Style": "J0301",
+        "GROSS AMT": 2654.0
+    },
+    {
+        "Style": "J0302",
+        "GROSS AMT": 5877.0
+    },
+    {
+        "Style": "J0303",
+        "GROSS AMT": 2502.0
+    },
+    {
+        "Style": "J0304",
+        "GROSS AMT": 3861.0
+    },
+    {
+        "Style": "J0305",
+        "GROSS AMT": 2798.0
+    },
+    {
+        "Style": "J0306",
+        "GROSS AMT": 12646.0
+    },
+    {
+        "Style": "J0307",
+        "GROSS AMT": 4829.0
+    },
+    {
+        "Style": "J0308",
+        "GROSS AMT": 650.0
+    },
+    {
+        "Style": "J0310",
+        "GROSS AMT": 452.0
+    },
+    {
+        "Style": "J0328",
+        "GROSS AMT": 14570.0
+    },
+    {
+        "Style": "J0329",
+        "GROSS AMT": 3395.0
+    },
+    {
+        "Style": "J0332",
+        "GROSS AMT": 16945.0
+    },
+    {
+        "Style": "J0333",
+        "GROSS AMT": 11214.0
+    },
+    {
+        "Style": "J0334",
+        "GROSS AMT": 2732.0
+    },
+    {
+        "Style": "J0335",
+        "GROSS AMT": 29125.0
+    },
+    {
+        "Style": "J0336",
+        "GROSS AMT": 13916.0
+    },
+    {
+        "Style": "J0337",
+        "GROSS AMT": 2145.0
+    },
+    {
+        "Style": "J0338",
+        "GROSS AMT": 5429.0
+    },
+    {
+        "Style": "J0339",
+        "GROSS AMT": 6746.0
+    },
+    {
+        "Style": "J0341",
+        "GROSS AMT": 12229.0
+    },
+    {
+        "Style": "J0342",
+        "GROSS AMT": 4966.0
+    },
+    {
+        "Style": "J0343",
+        "GROSS AMT": 1569.0
+    },
+    {
+        "Style": "J0344",
+        "GROSS AMT": 5780.0
+    },
+    {
+        "Style": "J0345",
+        "GROSS AMT": 12352.0
+    },
+    {
+        "Style": "J0346",
+        "GROSS AMT": 1566.0
+    },
+    {
+        "Style": "J0347",
+        "GROSS AMT": 9782.0
+    },
+    {
+        "Style": "J0348",
+        "GROSS AMT": 1574.0
+    },
+    {
+        "Style": "J0349",
+        "GROSS AMT": 3556.0
+    },
+    {
+        "Style": "J0350",
+        "GROSS AMT": 8374.0
+    },
+    {
+        "Style": "J0351",
+        "GROSS AMT": 9276.0
+    },
+    {
+        "Style": "J0352",
+        "GROSS AMT": 5917.0
+    },
+    {
+        "Style": "J0353",
+        "GROSS AMT": 3264.0
+    },
+    {
+        "Style": "J0354",
+        "GROSS AMT": 5894.0
+    },
+    {
+        "Style": "J0369",
+        "GROSS AMT": 4926.0
+    },
+    {
+        "Style": "J0370",
+        "GROSS AMT": 23080.0
+    },
+    {
+        "Style": "J0371",
+        "GROSS AMT": 8672.0
+    },
+    {
+        "Style": "J0372",
+        "GROSS AMT": 5062.0
+    },
+    {
+        "Style": "J0373",
+        "GROSS AMT": 3986.0
+    },
+    {
+        "Style": "J0374",
+        "GROSS AMT": 3774.0
+    },
+    {
+        "Style": "J0375",
+        "GROSS AMT": 20312.0
+    },
+    {
+        "Style": "J0379",
+        "GROSS AMT": 6240.0
+    },
+    {
+        "Style": "J0380",
+        "GROSS AMT": 6328.0
+    },
+    {
+        "Style": "J0381",
+        "GROSS AMT": 1523.0
+    },
+    {
+        "Style": "J0382",
+        "GROSS AMT": 10722.0
+    },
+    {
+        "Style": "J0395",
+        "GROSS AMT": 2553.0
+    },
+    {
+        "Style": "J0396",
+        "GROSS AMT": 10227.0
+    },
+    {
+        "Style": "J0397",
+        "GROSS AMT": 8726.0
+    },
+    {
+        "Style": "J0398",
+        "GROSS AMT": 19286.0
+    },
+    {
+        "Style": "J0399",
+        "GROSS AMT": 7808.0
+    },
+    {
+        "Style": "J0401",
+        "GROSS AMT": 2664.0
+    },
+    {
+        "Style": "JAN8641",
+        "GROSS AMT": 5620.0
+    },
+    {
+        "Style": "JNE09187",
+        "GROSS AMT": 886.0
+    },
+    {
+        "Style": "JNE09210",
+        "GROSS AMT": 1772.0
+    },
+    {
+        "Style": "JNE1234",
+        "GROSS AMT": 439.0
+    },
+    {
+        "Style": "JNE1408",
+        "GROSS AMT": 2765.0
+    },
+    {
+        "Style": "JNE1525",
+        "GROSS AMT": 9857.0
+    },
+    {
+        "Style": "JNE1906",
+        "GROSS AMT": 1038.0
+    },
+    {
+        "Style": "JNE1951",
+        "GROSS AMT": 3090.0
+    },
+    {
+        "Style": "JNE1977",
+        "GROSS AMT": 8937.0
+    },
+    {
+        "Style": "JNE1978",
+        "GROSS AMT": 2528.0
+    },
+    {
+        "Style": "JNE1998",
+        "GROSS AMT": 8725.0
+    },
+    {
+        "Style": "JNE2009",
+        "GROSS AMT": 21027.0
+    },
+    {
+        "Style": "JNE2014",
+        "GROSS AMT": 25884.0
+    },
+    {
+        "Style": "JNE2032",
+        "GROSS AMT": 23450.0
+    },
+    {
+        "Style": "JNE2049",
+        "GROSS AMT": 14314.0
+    },
+    {
+        "Style": "JNE2100",
+        "GROSS AMT": 67184.0
+    },
+    {
+        "Style": "JNE2101",
+        "GROSS AMT": 8305.0
+    },
+    {
+        "Style": "JNE2113",
+        "GROSS AMT": 4960.0
+    },
+    {
+        "Style": "JNE2132",
+        "GROSS AMT": 9197.0
+    },
+    {
+        "Style": "JNE2153",
+        "GROSS AMT": 4735.0
+    },
+    {
+        "Style": "JNE2170",
+        "GROSS AMT": 42670.0
+    },
+    {
+        "Style": "JNE2171",
+        "GROSS AMT": 11417.0
+    },
+    {
+        "Style": "JNE2199",
+        "GROSS AMT": 2867.0
+    },
+    {
+        "Style": "JNE2205",
+        "GROSS AMT": 11187.0
+    },
+    {
+        "Style": "JNE2251",
+        "GROSS AMT": 8496.0
+    },
+    {
+        "Style": "JNE2265",
+        "GROSS AMT": 7116.0
+    },
+    {
+        "Style": "JNE2266",
+        "GROSS AMT": 17748.0
+    },
+    {
+        "Style": "JNE2270",
+        "GROSS AMT": 21390.0
+    },
+    {
+        "Style": "JNE2291",
+        "GROSS AMT": 3544.0
+    },
+    {
+        "Style": "JNE2305",
+        "GROSS AMT": 4908.0
+    },
+    {
+        "Style": "JNE2307",
+        "GROSS AMT": 7425.0
+    },
+    {
+        "Style": "JNE3030",
+        "GROSS AMT": 38783.0
+    },
+    {
+        "Style": "JNE3042",
+        "GROSS AMT": 6110.0
+    },
+    {
+        "Style": "JNE3065",
+        "GROSS AMT": 13632.0
+    },
+    {
+        "Style": "JNE3068",
+        "GROSS AMT": 1616.0
+    },
+    {
+        "Style": "JNE3160",
+        "GROSS AMT": 31956.0
+    },
+    {
+        "Style": "JNE3225",
+        "GROSS AMT": 32687.0
+    },
+    {
+        "Style": "JNE3252",
+        "GROSS AMT": 24975.0
+    },
+    {
+        "Style": "JNE3255",
+        "GROSS AMT": 11642.0
+    },
+    {
+        "Style": "JNE3256",
+        "GROSS AMT": 37330.0
+    },
+    {
+        "Style": "JNE3261",
+        "GROSS AMT": 19153.0
+    },
+    {
+        "Style": "JNE3270",
+        "GROSS AMT": 439.0
+    },
+    {
+        "Style": "JNE3273",
+        "GROSS AMT": 51324.0
+    },
+    {
+        "Style": "JNE3288",
+        "GROSS AMT": 56563.0
+    },
+    {
+        "Style": "JNE3294",
+        "GROSS AMT": 17117.0
+    },
+    {
+        "Style": "JNE3311",
+        "GROSS AMT": 11875.0
+    },
+    {
+        "Style": "JNE3313",
+        "GROSS AMT": 10796.0
+    },
+    {
+        "Style": "JNE3348",
+        "GROSS AMT": 7983.0
+    },
+    {
+        "Style": "JNE3363",
+        "GROSS AMT": 7660.0
+    },
+    {
+        "Style": "JNE3364",
+        "GROSS AMT": 21390.0
+    },
+    {
+        "Style": "JNE3365",
+        "GROSS AMT": 15112.0
+    },
+    {
+        "Style": "JNE3366",
+        "GROSS AMT": 27804.0
+    },
+    {
+        "Style": "JNE3368",
+        "GROSS AMT": 7629.0
+    },
+    {
+        "Style": "JNE3371",
+        "GROSS AMT": 3960.0
+    },
+    {
+        "Style": "JNE3373",
+        "GROSS AMT": 16157.0
+    },
+    {
+        "Style": "JNE3376",
+        "GROSS AMT": 10622.0
+    },
+    {
+        "Style": "JNE3383",
+        "GROSS AMT": 12329.0
+    },
+    {
+        "Style": "JNE3384",
+        "GROSS AMT": 28333.0
+    },
+    {
+        "Style": "JNE3386",
+        "GROSS AMT": 2995.0
+    },
+    {
+        "Style": "JNE3388",
+        "GROSS AMT": 300.0
+    },
+    {
+        "Style": "JNE3390",
+        "GROSS AMT": 3516.0
+    },
+    {
+        "Style": "JNE3391",
+        "GROSS AMT": 16021.0
+    },
+    {
+        "Style": "JNE3396",
+        "GROSS AMT": 27206.0
+    },
+    {
+        "Style": "JNE3398",
+        "GROSS AMT": 2864.0
+    },
+    {
+        "Style": "JNE3399",
+        "GROSS AMT": 9295.0
+    },
+    {
+        "Style": "JNE3400",
+        "GROSS AMT": 8744.0
+    },
+    {
+        "Style": "JNE3403",
+        "GROSS AMT": 620.0
+    },
+    {
+        "Style": "JNE3404",
+        "GROSS AMT": 5937.0
+    },
+    {
+        "Style": "JNE3405",
+        "GROSS AMT": 56112.0
+    },
+    {
+        "Style": "JNE3408",
+        "GROSS AMT": 4245.0
+    },
+    {
+        "Style": "JNE3415",
+        "GROSS AMT": 4741.0
+    },
+    {
+        "Style": "JNE3420",
+        "GROSS AMT": 7299.0
+    },
+    {
+        "Style": "JNE3421",
+        "GROSS AMT": 11741.0
+    },
+    {
+        "Style": "JNE3422",
+        "GROSS AMT": 5990.0
+    },
+    {
+        "Style": "JNE3423",
+        "GROSS AMT": 8126.0
+    },
+    {
+        "Style": "JNE3425",
+        "GROSS AMT": 2863.0
+    },
+    {
+        "Style": "JNE3427",
+        "GROSS AMT": 311.0
+    },
+    {
+        "Style": "JNE3428",
+        "GROSS AMT": 7297.0
+    },
+    {
+        "Style": "JNE3429",
+        "GROSS AMT": 6824.0
+    },
+    {
+        "Style": "JNE3432",
+        "GROSS AMT": 11343.0
+    },
+    {
+        "Style": "JNE3434",
+        "GROSS AMT": 17613.0
+    },
+    {
+        "Style": "JNE3435",
+        "GROSS AMT": 48659.0
+    },
+    {
+        "Style": "JNE3437",
+        "GROSS AMT": 11485.0
+    },
+    {
+        "Style": "JNE3438",
+        "GROSS AMT": 5178.0
+    },
+    {
+        "Style": "JNE3439",
+        "GROSS AMT": 22361.0
+    },
+    {
+        "Style": "JNE3440",
+        "GROSS AMT": 77815.0
+    },
+    {
+        "Style": "JNE3441",
+        "GROSS AMT": 10704.0
+    },
+    {
+        "Style": "JNE3443",
+        "GROSS AMT": 3095.0
+    },
+    {
+        "Style": "JNE3445",
+        "GROSS AMT": 12550.0
+    },
+    {
+        "Style": "JNE3446",
+        "GROSS AMT": 1785.0
+    },
+    {
+        "Style": "JNE3447",
+        "GROSS AMT": 3474.0
+    },
+    {
+        "Style": "JNE3449",
+        "GROSS AMT": 14239.0
+    },
+    {
+        "Style": "JNE3454",
+        "GROSS AMT": 3687.0
+    },
+    {
+        "Style": "JNE3455",
+        "GROSS AMT": 7366.0
+    },
+    {
+        "Style": "JNE3457",
+        "GROSS AMT": 6028.0
+    },
+    {
+        "Style": "JNE3459",
+        "GROSS AMT": 2117.0
+    },
+    {
+        "Style": "JNE3461",
+        "GROSS AMT": 5344.0
+    },
+    {
+        "Style": "JNE3463",
+        "GROSS AMT": 2251.0
+    },
+    {
+        "Style": "JNE3464",
+        "GROSS AMT": 3978.0
+    },
+    {
+        "Style": "JNE3465",
+        "GROSS AMT": 698.0
+    },
+    {
+        "Style": "JNE3467",
+        "GROSS AMT": 525.0
+    },
+    {
+        "Style": "JNE3469",
+        "GROSS AMT": 9892.0
+    },
+    {
+        "Style": "JNE3471",
+        "GROSS AMT": 1050.0
+    },
+    {
+        "Style": "JNE3472",
+        "GROSS AMT": 780.0
+    },
+    {
+        "Style": "JNE3474",
+        "GROSS AMT": 19976.0
+    },
+    {
+        "Style": "JNE3479",
+        "GROSS AMT": 21813.0
+    },
+    {
+        "Style": "JNE3480",
+        "GROSS AMT": 8204.0
+    },
+    {
+        "Style": "JNE3488",
+        "GROSS AMT": 5700.0
+    },
+    {
+        "Style": "JNE3489",
+        "GROSS AMT": 56329.0
+    },
+    {
+        "Style": "JNE3497",
+        "GROSS AMT": 3809.0
+    },
+    {
+        "Style": "JNE3500",
+        "GROSS AMT": 13409.0
+    },
+    {
+        "Style": "JNE3501",
+        "GROSS AMT": 11877.0
+    },
+    {
+        "Style": "JNE3504",
+        "GROSS AMT": 7232.0
+    },
+    {
+        "Style": "JNE3506",
+        "GROSS AMT": 14088.0
+    },
+    {
+        "Style": "JNE3507",
+        "GROSS AMT": 4703.0
+    },
+    {
+        "Style": "JNE3510",
+        "GROSS AMT": 2516.0
+    },
+    {
+        "Style": "JNE3515",
+        "GROSS AMT": 581.0
+    },
+    {
+        "Style": "JNE3516",
+        "GROSS AMT": 8586.0
+    },
+    {
+        "Style": "JNE3518",
+        "GROSS AMT": 18764.0
+    },
+    {
+        "Style": "JNE3522",
+        "GROSS AMT": 12965.0
+    },
+    {
+        "Style": "JNE3523",
+        "GROSS AMT": 22162.0
+    },
+    {
+        "Style": "JNE3524",
+        "GROSS AMT": 8040.0
+    },
+    {
+        "Style": "JNE3526",
+        "GROSS AMT": 905.0
+    },
+    {
+        "Style": "JNE3528",
+        "GROSS AMT": 8682.0
+    },
+    {
+        "Style": "JNE3534",
+        "GROSS AMT": 11407.0
+    },
+    {
+        "Style": "JNE3535",
+        "GROSS AMT": 22047.0
+    },
+    {
+        "Style": "JNE3537",
+        "GROSS AMT": 2813.0
+    },
+    {
+        "Style": "JNE3539",
+        "GROSS AMT": 13630.0
+    },
+    {
+        "Style": "JNE3541",
+        "GROSS AMT": 1722.0
+    },
+    {
+        "Style": "JNE3545",
+        "GROSS AMT": 1068.0
+    },
+    {
+        "Style": "JNE3546",
+        "GROSS AMT": 33290.0
+    },
+    {
+        "Style": "JNE3547",
+        "GROSS AMT": 32198.0
+    },
+    {
+        "Style": "JNE3548",
+        "GROSS AMT": 89511.0
+    },
+    {
+        "Style": "JNE3549",
+        "GROSS AMT": 16135.0
+    },
+    {
+        "Style": "JNE3550",
+        "GROSS AMT": 766.0
+    },
+    {
+        "Style": "JNE3553",
+        "GROSS AMT": 20868.0
+    },
+    {
+        "Style": "JNE3554",
+        "GROSS AMT": 40132.0
+    },
+    {
+        "Style": "JNE3555",
+        "GROSS AMT": 80339.0
+    },
+    {
+        "Style": "JNE3556",
+        "GROSS AMT": 36744.0
+    },
+    {
+        "Style": "JNE3557",
+        "GROSS AMT": 26243.0
+    },
+    {
+        "Style": "JNE3558",
+        "GROSS AMT": 2278.0
+    },
+    {
+        "Style": "JNE3559",
+        "GROSS AMT": 5245.0
+    },
+    {
+        "Style": "JNE3560",
+        "GROSS AMT": 63937.0
+    },
+    {
+        "Style": "JNE3561",
+        "GROSS AMT": 19053.0
+    },
+    {
+        "Style": "JNE3562",
+        "GROSS AMT": 14899.0
+    },
+    {
+        "Style": "JNE3563",
+        "GROSS AMT": 15518.0
+    },
+    {
+        "Style": "JNE3564",
+        "GROSS AMT": 34048.0
+    },
+    {
+        "Style": "JNE3565",
+        "GROSS AMT": 14582.0
+    },
+    {
+        "Style": "JNE3566",
+        "GROSS AMT": 14722.0
+    },
+    {
+        "Style": "JNE3567",
+        "GROSS AMT": 55420.0
+    },
+    {
+        "Style": "JNE3568",
+        "GROSS AMT": 19753.0
+    },
+    {
+        "Style": "JNE3570",
+        "GROSS AMT": 4988.0
+    },
+    {
+        "Style": "JNE3571",
+        "GROSS AMT": 23814.0
+    },
+    {
+        "Style": "JNE3573",
+        "GROSS AMT": 17048.0
+    },
+    {
+        "Style": "JNE3574",
+        "GROSS AMT": 13930.0
+    },
+    {
+        "Style": "JNE3575",
+        "GROSS AMT": 7418.0
+    },
+    {
+        "Style": "JNE3576",
+        "GROSS AMT": 58534.0
+    },
+    {
+        "Style": "JNE3577",
+        "GROSS AMT": 15699.0
+    },
+    {
+        "Style": "JNE3578",
+        "GROSS AMT": 16462.0
+    },
+    {
+        "Style": "JNE3579",
+        "GROSS AMT": 765.0
+    },
+    {
+        "Style": "JNE3580",
+        "GROSS AMT": 621.0
+    },
+    {
+        "Style": "JNE3581",
+        "GROSS AMT": 15500.0
+    },
+    {
+        "Style": "JNE3602",
+        "GROSS AMT": 1211.0
+    },
+    {
+        "Style": "JNE3605",
+        "GROSS AMT": 45446.0
+    },
+    {
+        "Style": "JNE3606",
+        "GROSS AMT": 14585.0
+    },
+    {
+        "Style": "JNE3607",
+        "GROSS AMT": 8042.0
+    },
+    {
+        "Style": "JNE3609",
+        "GROSS AMT": 28845.0
+    },
+    {
+        "Style": "JNE3610",
+        "GROSS AMT": 4706.0
+    },
+    {
+        "Style": "JNE3611",
+        "GROSS AMT": 20414.0
+    },
+    {
+        "Style": "JNE3612",
+        "GROSS AMT": 14190.0
+    },
+    {
+        "Style": "JNE3613",
+        "GROSS AMT": 10230.0
+    },
+    {
+        "Style": "JNE3614",
+        "GROSS AMT": 17549.0
+    },
+    {
+        "Style": "JNE3615",
+        "GROSS AMT": 10102.0
+    },
+    {
+        "Style": "JNE3616",
+        "GROSS AMT": 25183.0
+    },
+    {
+        "Style": "JNE3617",
+        "GROSS AMT": 14600.0
+    },
+    {
+        "Style": "JNE3618",
+        "GROSS AMT": 894.0
+    },
+    {
+        "Style": "JNE3619",
+        "GROSS AMT": 7264.0
+    },
+    {
+        "Style": "JNE3620",
+        "GROSS AMT": 19447.0
+    },
+    {
+        "Style": "JNE3621",
+        "GROSS AMT": 7589.0
+    },
+    {
+        "Style": "JNE3622",
+        "GROSS AMT": 21924.0
+    },
+    {
+        "Style": "JNE3623",
+        "GROSS AMT": 418.0
+    },
+    {
+        "Style": "JNE3624",
+        "GROSS AMT": 3670.0
+    },
+    {
+        "Style": "JNE3625",
+        "GROSS AMT": 5031.0
+    },
+    {
+        "Style": "JNE3627",
+        "GROSS AMT": 31850.0
+    },
+    {
+        "Style": "JNE3628",
+        "GROSS AMT": 16815.0
+    },
+    {
+        "Style": "JNE3629",
+        "GROSS AMT": 2044.0
+    },
+    {
+        "Style": "JNE3630",
+        "GROSS AMT": 11832.0
+    },
+    {
+        "Style": "JNE3631",
+        "GROSS AMT": 1476.0
+    },
+    {
+        "Style": "JNE3633",
+        "GROSS AMT": 2124.0
+    },
+    {
+        "Style": "JNE3634",
+        "GROSS AMT": 23933.0
+    },
+    {
+        "Style": "JNE3635",
+        "GROSS AMT": 19895.0
+    },
+    {
+        "Style": "JNE3636",
+        "GROSS AMT": 13750.0
+    },
+    {
+        "Style": "JNE3637",
+        "GROSS AMT": 44899.0
+    },
+    {
+        "Style": "JNE3638",
+        "GROSS AMT": 6104.0
+    },
+    {
+        "Style": "JNE3639",
+        "GROSS AMT": 20798.0
+    },
+    {
+        "Style": "JNE3640",
+        "GROSS AMT": 62707.0
+    },
+    {
+        "Style": "JNE3641",
+        "GROSS AMT": 5601.0
+    },
+    {
+        "Style": "JNE3642",
+        "GROSS AMT": 11268.0
+    },
+    {
+        "Style": "JNE3643",
+        "GROSS AMT": 948.0
+    },
+    {
+        "Style": "JNE3644",
+        "GROSS AMT": 5184.0
+    },
+    {
+        "Style": "JNE3645",
+        "GROSS AMT": 5005.0
+    },
+    {
+        "Style": "JNE3647",
+        "GROSS AMT": 425.0
+    },
+    {
+        "Style": "JNE3648",
+        "GROSS AMT": 18925.0
+    },
+    {
+        "Style": "JNE3649",
+        "GROSS AMT": 9219.0
+    },
+    {
+        "Style": "JNE3651",
+        "GROSS AMT": 24168.0
+    },
+    {
+        "Style": "JNE3652",
+        "GROSS AMT": 5955.0
+    },
+    {
+        "Style": "JNE3653",
+        "GROSS AMT": 454.0
+    },
+    {
+        "Style": "JNE3654",
+        "GROSS AMT": 9308.0
+    },
+    {
+        "Style": "JNE3655",
+        "GROSS AMT": 386.0
+    },
+    {
+        "Style": "JNE3656",
+        "GROSS AMT": 22016.0
+    },
+    {
+        "Style": "JNE3657",
+        "GROSS AMT": 4181.0
+    },
+    {
+        "Style": "JNE3658",
+        "GROSS AMT": 1204.0
+    },
+    {
+        "Style": "JNE3659",
+        "GROSS AMT": 9655.0
+    },
+    {
+        "Style": "JNE3660",
+        "GROSS AMT": 6095.0
+    },
+    {
+        "Style": "JNE3661",
+        "GROSS AMT": 2272.0
+    },
+    {
+        "Style": "JNE3662",
+        "GROSS AMT": 7846.0
+    },
+    {
+        "Style": "JNE3663",
+        "GROSS AMT": 2595.0
+    },
+    {
+        "Style": "JNE3664",
+        "GROSS AMT": 12338.0
+    },
+    {
+        "Style": "JNE3665",
+        "GROSS AMT": 21761.0
+    },
+    {
+        "Style": "JNE3666",
+        "GROSS AMT": 5138.0
+    },
+    {
+        "Style": "JNE3667",
+        "GROSS AMT": 28329.0
+    },
+    {
+        "Style": "JNE3668",
+        "GROSS AMT": 17965.0
+    },
+    {
+        "Style": "JNE3669",
+        "GROSS AMT": 36491.0
+    },
+    {
+        "Style": "JNE3670",
+        "GROSS AMT": 12208.0
+    },
+    {
+        "Style": "JNE3671",
+        "GROSS AMT": 10804.0
+    },
+    {
+        "Style": "JNE3672",
+        "GROSS AMT": 47536.0
+    },
+    {
+        "Style": "JNE3673",
+        "GROSS AMT": 26344.0
+    },
+    {
+        "Style": "JNE3674",
+        "GROSS AMT": 48659.0
+    },
+    {
+        "Style": "JNE3675",
+        "GROSS AMT": 3446.0
+    },
+    {
+        "Style": "JNE3676",
+        "GROSS AMT": 38977.0
+    },
+    {
+        "Style": "JNE3678",
+        "GROSS AMT": 13581.0
+    },
+    {
+        "Style": "JNE3679",
+        "GROSS AMT": 12093.0
+    },
+    {
+        "Style": "JNE3680",
+        "GROSS AMT": 11358.0
+    },
+    {
+        "Style": "JNE3683",
+        "GROSS AMT": 22347.0
+    },
+    {
+        "Style": "JNE3684",
+        "GROSS AMT": 8456.0
+    },
+    {
+        "Style": "JNE3686",
+        "GROSS AMT": 35317.0
+    },
+    {
+        "Style": "JNE3687",
+        "GROSS AMT": 18577.0
+    },
+    {
+        "Style": "JNE3688",
+        "GROSS AMT": 35459.0
+    },
+    {
+        "Style": "JNE3689",
+        "GROSS AMT": 439.0
+    },
+    {
+        "Style": "JNE3690",
+        "GROSS AMT": 818.0
+    },
+    {
+        "Style": "JNE3691",
+        "GROSS AMT": 24386.0
+    },
+    {
+        "Style": "JNE3693",
+        "GROSS AMT": 4720.0
+    },
+    {
+        "Style": "JNE3695",
+        "GROSS AMT": 9642.0
+    },
+    {
+        "Style": "JNE3697",
+        "GROSS AMT": 19785.0
+    },
+    {
+        "Style": "JNE3698",
+        "GROSS AMT": 8392.0
+    },
+    {
+        "Style": "JNE3701",
+        "GROSS AMT": 20140.0
+    },
+    {
+        "Style": "JNE3703",
+        "GROSS AMT": 11351.0
+    },
+    {
+        "Style": "JNE3704",
+        "GROSS AMT": 3946.0
+    },
+    {
+        "Style": "JNE3706",
+        "GROSS AMT": 663.0
+    },
+    {
+        "Style": "JNE3707",
+        "GROSS AMT": 8812.0
+    },
+    {
+        "Style": "JNE3708",
+        "GROSS AMT": 15330.0
+    },
+    {
+        "Style": "JNE3709",
+        "GROSS AMT": 23648.0
+    },
+    {
+        "Style": "JNE3710",
+        "GROSS AMT": 31191.0
+    },
+    {
+        "Style": "JNE3712",
+        "GROSS AMT": 9052.0
+    },
+    {
+        "Style": "JNE3713",
+        "GROSS AMT": 12187.0
+    },
+    {
+        "Style": "JNE3714",
+        "GROSS AMT": 6957.0
+    },
+    {
+        "Style": "JNE3716",
+        "GROSS AMT": 23070.0
+    },
+    {
+        "Style": "JNE3717",
+        "GROSS AMT": 9192.0
+    },
+    {
+        "Style": "JNE3718",
+        "GROSS AMT": 13482.0
+    },
+    {
+        "Style": "JNE3719",
+        "GROSS AMT": 2861.0
+    },
+    {
+        "Style": "JNE3720",
+        "GROSS AMT": 13498.0
+    },
+    {
+        "Style": "JNE3721",
+        "GROSS AMT": 10247.0
+    },
+    {
+        "Style": "JNE3722",
+        "GROSS AMT": 37575.0
+    },
+    {
+        "Style": "JNE3724",
+        "GROSS AMT": 5271.0
+    },
+    {
+        "Style": "JNE3725",
+        "GROSS AMT": 25549.0
+    },
+    {
+        "Style": "JNE3726",
+        "GROSS AMT": 888.0
+    },
+    {
+        "Style": "JNE3727",
+        "GROSS AMT": 11515.0
+    },
+    {
+        "Style": "JNE3728",
+        "GROSS AMT": 12179.0
+    },
+    {
+        "Style": "JNE3729",
+        "GROSS AMT": 18147.0
+    },
+    {
+        "Style": "JNE3730",
+        "GROSS AMT": 1382.0
+    },
+    {
+        "Style": "JNE3732",
+        "GROSS AMT": 15088.0
+    },
+    {
+        "Style": "JNE3733",
+        "GROSS AMT": 3764.0
+    },
+    {
+        "Style": "JNE3734",
+        "GROSS AMT": 2026.0
+    },
+    {
+        "Style": "JNE3736",
+        "GROSS AMT": 6498.0
+    },
+    {
+        "Style": "JNE3738",
+        "GROSS AMT": 3301.0
+    },
+    {
+        "Style": "JNE3739",
+        "GROSS AMT": 16570.0
+    },
+    {
+        "Style": "JNE3740",
+        "GROSS AMT": 4181.0
+    },
+    {
+        "Style": "JNE3741",
+        "GROSS AMT": 12569.0
+    },
+    {
+        "Style": "JNE3742",
+        "GROSS AMT": 2289.0
+    },
+    {
+        "Style": "JNE3743",
+        "GROSS AMT": 4466.0
+    },
+    {
+        "Style": "JNE3744",
+        "GROSS AMT": 33290.0
+    },
+    {
+        "Style": "JNE3745",
+        "GROSS AMT": 553.0
+    },
+    {
+        "Style": "JNE3749",
+        "GROSS AMT": 9849.0
+    },
+    {
+        "Style": "JNE3750",
+        "GROSS AMT": 31592.0
+    },
+    {
+        "Style": "JNE3751",
+        "GROSS AMT": 21540.0
+    },
+    {
+        "Style": "JNE3752",
+        "GROSS AMT": 868.0
+    },
+    {
+        "Style": "JNE3753",
+        "GROSS AMT": 1994.0
+    },
+    {
+        "Style": "JNE3756",
+        "GROSS AMT": 7099.0
+    },
+    {
+        "Style": "JNE3757",
+        "GROSS AMT": 3557.0
+    },
+    {
+        "Style": "JNE3758",
+        "GROSS AMT": 9486.0
+    },
+    {
+        "Style": "JNE3759",
+        "GROSS AMT": 36360.0
+    },
+    {
+        "Style": "JNE3760",
+        "GROSS AMT": 6294.0
+    },
+    {
+        "Style": "JNE3761",
+        "GROSS AMT": 1376.0
+    },
+    {
+        "Style": "JNE3762",
+        "GROSS AMT": 17728.0
+    },
+    {
+        "Style": "JNE3763",
+        "GROSS AMT": 5547.0
+    },
+    {
+        "Style": "JNE3764",
+        "GROSS AMT": 20161.0
+    },
+    {
+        "Style": "JNE3765",
+        "GROSS AMT": 1426.0
+    },
+    {
+        "Style": "JNE3766",
+        "GROSS AMT": 3820.0
+    },
+    {
+        "Style": "JNE3767",
+        "GROSS AMT": 9308.0
+    },
+    {
+        "Style": "JNE3768",
+        "GROSS AMT": 1950.0
+    },
+    {
+        "Style": "JNE3769",
+        "GROSS AMT": 5642.0
+    },
+    {
+        "Style": "JNE3770",
+        "GROSS AMT": 15293.0
+    },
+    {
+        "Style": "JNE3771",
+        "GROSS AMT": 9334.0
+    },
+    {
+        "Style": "JNE3773",
+        "GROSS AMT": 1919.0
+    },
+    {
+        "Style": "JNE3774",
+        "GROSS AMT": 8538.0
+    },
+    {
+        "Style": "JNE3775",
+        "GROSS AMT": 8564.0
+    },
+    {
+        "Style": "JNE3776",
+        "GROSS AMT": 956.0
+    },
+    {
+        "Style": "JNE3777",
+        "GROSS AMT": 2898.0
+    },
+    {
+        "Style": "JNE3778",
+        "GROSS AMT": 4856.0
+    },
+    {
+        "Style": "JNE3779",
+        "GROSS AMT": 2236.0
+    },
+    {
+        "Style": "JNE3780",
+        "GROSS AMT": 1905.0
+    },
+    {
+        "Style": "JNE3781",
+        "GROSS AMT": 1000.0
+    },
+    {
+        "Style": "JNE3782",
+        "GROSS AMT": 2228.0
+    },
+    {
+        "Style": "JNE3783",
+        "GROSS AMT": 3444.0
+    },
+    {
+        "Style": "JNE3784",
+        "GROSS AMT": 7032.0
+    },
+    {
+        "Style": "JNE3785",
+        "GROSS AMT": 5688.0
+    },
+    {
+        "Style": "JNE3786",
+        "GROSS AMT": 431.0
+    },
+    {
+        "Style": "JNE3787",
+        "GROSS AMT": 2233.0
+    },
+    {
+        "Style": "JNE3788",
+        "GROSS AMT": 11375.0
+    },
+    {
+        "Style": "JNE3789",
+        "GROSS AMT": 1588.0
+    },
+    {
+        "Style": "JNE3790",
+        "GROSS AMT": 22778.0
+    },
+    {
+        "Style": "JNE3791",
+        "GROSS AMT": 4026.0
+    },
+    {
+        "Style": "JNE3792",
+        "GROSS AMT": 5714.0
+    },
+    {
+        "Style": "JNE3793",
+        "GROSS AMT": 15174.0
+    },
+    {
+        "Style": "JNE3794",
+        "GROSS AMT": 1354.0
+    },
+    {
+        "Style": "JNE3795",
+        "GROSS AMT": 6649.0
+    },
+    {
+        "Style": "JNE3796",
+        "GROSS AMT": 916.0
+    },
+    {
+        "Style": "JNE3797",
+        "GROSS AMT": 4752.0
+    },
+    {
+        "Style": "JNE3798",
+        "GROSS AMT": 9631.0
+    },
+    {
+        "Style": "JNE3800",
+        "GROSS AMT": 2003.0
+    },
+    {
+        "Style": "JNE3802",
+        "GROSS AMT": 960.0
+    },
+    {
+        "Style": "JNE3804",
+        "GROSS AMT": 1404.0
+    },
+    {
+        "Style": "JNE3805",
+        "GROSS AMT": 4740.0
+    },
+    {
+        "Style": "JNE3806",
+        "GROSS AMT": 546.0
+    },
+    {
+        "Style": "JNE3807",
+        "GROSS AMT": 13401.0
+    },
+    {
+        "Style": "JNE3811",
+        "GROSS AMT": 3452.0
+    },
+    {
+        "Style": "JNE3813",
+        "GROSS AMT": 10291.0
+    },
+    {
+        "Style": "JNE3816",
+        "GROSS AMT": 11196.0
+    },
+    {
+        "Style": "JNE3817",
+        "GROSS AMT": 3329.0
+    },
+    {
+        "Style": "JNE3819",
+        "GROSS AMT": 8212.0
+    },
+    {
+        "Style": "JNE3820",
+        "GROSS AMT": 1310.0
+    },
+    {
+        "Style": "JNE3821",
+        "GROSS AMT": 2812.0
+    },
+    {
+        "Style": "JNE3822",
+        "GROSS AMT": 2400.0
+    },
+    {
+        "Style": "JNE3823",
+        "GROSS AMT": 2768.0
+    },
+    {
+        "Style": "JNE3825",
+        "GROSS AMT": 1308.0
+    },
+    {
+        "Style": "JNE3826",
+        "GROSS AMT": 10465.0
+    },
+    {
+        "Style": "JNE3827",
+        "GROSS AMT": 11960.0
+    },
+    {
+        "Style": "JNE3828",
+        "GROSS AMT": 13455.0
+    },
+    {
+        "Style": "JNE3829",
+        "GROSS AMT": 2990.0
+    },
+    {
+        "Style": "JNE3830",
+        "GROSS AMT": 11960.0
+    },
+    {
+        "Style": "JNE3831",
+        "GROSS AMT": 4485.0
+    },
+    {
+        "Style": "JNE3832",
+        "GROSS AMT": 5980.0
+    },
+    {
+        "Style": "JNE3833",
+        "GROSS AMT": 9345.0
+    },
+    {
+        "Style": "JNE3834",
+        "GROSS AMT": 12099.0
+    },
+    {
+        "Style": "JNE3835",
+        "GROSS AMT": 13749.0
+    },
+    {
+        "Style": "JNE3836",
+        "GROSS AMT": 8812.0
+    },
+    {
+        "Style": "JNE3837",
+        "GROSS AMT": 2822.0
+    },
+    {
+        "Style": "JNE3839",
+        "GROSS AMT": 16548.0
+    },
+    {
+        "Style": "JNE3840",
+        "GROSS AMT": 16548.0
+    },
+    {
+        "Style": "JNE3843",
+        "GROSS AMT": 5328.0
+    },
+    {
+        "Style": "JNE3844",
+        "GROSS AMT": 14678.0
+    },
+    {
+        "Style": "JNE3845",
+        "GROSS AMT": 12808.0
+    },
+    {
+        "Style": "JNE3846",
+        "GROSS AMT": 12808.0
+    },
+    {
+        "Style": "JNE3847",
+        "GROSS AMT": 7480.0
+    },
+    {
+        "Style": "JNE3848",
+        "GROSS AMT": 13230.0
+    },
+    {
+        "Style": "JNE3849",
+        "GROSS AMT": 20705.0
+    },
+    {
+        "Style": "JNE3850",
+        "GROSS AMT": 2990.0
+    },
+    {
+        "Style": "JNE3851",
+        "GROSS AMT": 5980.0
+    },
+    {
+        "Style": "JNE3852",
+        "GROSS AMT": 8970.0
+    },
+    {
+        "Style": "JNE3853",
+        "GROSS AMT": 20930.0
+    },
+    {
+        "Style": "JNE3855",
+        "GROSS AMT": 10465.0
+    },
+    {
+        "Style": "JNE3856",
+        "GROSS AMT": 12683.0
+    },
+    {
+        "Style": "JNE3857",
+        "GROSS AMT": 1495.0
+    },
+    {
+        "Style": "JNE3858",
+        "GROSS AMT": 4485.0
+    },
+    {
+        "Style": "JNE3860",
+        "GROSS AMT": 809.0
+    },
+    {
+        "Style": "JNE3861",
+        "GROSS AMT": 4701.0
+    },
+    {
+        "Style": "JNE3863",
+        "GROSS AMT": 14405.0
+    },
+    {
+        "Style": "JNE3864",
+        "GROSS AMT": 9788.0
+    },
+    {
+        "Style": "JNE3870",
+        "GROSS AMT": 14068.0
+    },
+    {
+        "Style": "JNE3878",
+        "GROSS AMT": 680.0
+    },
+    {
+        "Style": "JNE3879",
+        "GROSS AMT": 3286.0
+    },
+    {
+        "Style": "JNE3880",
+        "GROSS AMT": 2006.0
+    },
+    {
+        "Style": "LABEL CHARGE",
+        "GROSS AMT": 0.0
+    },
+    {
+        "Style": "LABEL MANUF.CHRAGE",
+        "GROSS AMT": 0.0
+    },
+    {
+        "Style": "MEN5001",
+        "GROSS AMT": 8511.0
+    },
+    {
+        "Style": "MEN5002",
+        "GROSS AMT": 27102.0
+    },
+    {
+        "Style": "MEN5003",
+        "GROSS AMT": 17788.0
+    },
+    {
+        "Style": "MEN5004",
+        "GROSS AMT": 18415.0
+    },
+    {
+        "Style": "MEN5005",
+        "GROSS AMT": 15525.0
+    },
+    {
+        "Style": "MEN5006",
+        "GROSS AMT": 6360.0
+    },
+    {
+        "Style": "MEN5007",
+        "GROSS AMT": 14583.0
+    },
+    {
+        "Style": "MEN5008",
+        "GROSS AMT": 2299.0
+    },
+    {
+        "Style": "MEN5009",
+        "GROSS AMT": 37300.0
+    },
+    {
+        "Style": "MEN5010",
+        "GROSS AMT": 15723.0
+    },
+    {
+        "Style": "MEN5011",
+        "GROSS AMT": 3300.0
+    },
+    {
+        "Style": "MEN5012",
+        "GROSS AMT": 3264.0
+    },
+    {
+        "Style": "MEN5013",
+        "GROSS AMT": 18018.0
+    },
+    {
+        "Style": "MEN5014",
+        "GROSS AMT": 26277.0
+    },
+    {
+        "Style": "MEN5015",
+        "GROSS AMT": 14559.0
+    },
+    {
+        "Style": "MEN5016",
+        "GROSS AMT": 21982.0
+    },
+    {
+        "Style": "MEN5017",
+        "GROSS AMT": 24572.0
+    },
+    {
+        "Style": "MEN5018",
+        "GROSS AMT": 11581.0
+    },
+    {
+        "Style": "MEN5019",
+        "GROSS AMT": 11358.0
+    },
+    {
+        "Style": "MEN5020",
+        "GROSS AMT": 5930.0
+    },
+    {
+        "Style": "MEN5021",
+        "GROSS AMT": 42093.0
+    },
+    {
+        "Style": "MEN5022",
+        "GROSS AMT": 21483.0
+    },
+    {
+        "Style": "MEN5023",
+        "GROSS AMT": 13725.0
+    },
+    {
+        "Style": "MEN5024",
+        "GROSS AMT": 4874.0
+    },
+    {
+        "Style": "MEN5025",
+        "GROSS AMT": 28090.0
+    },
+    {
+        "Style": "MEN5026",
+        "GROSS AMT": 13959.0
+    },
+    {
+        "Style": "MEN5027",
+        "GROSS AMT": 15324.0
+    },
+    {
+        "Style": "MEN5028",
+        "GROSS AMT": 4211.0
+    },
+    {
+        "Style": "MEN5029",
+        "GROSS AMT": 18687.0
+    },
+    {
+        "Style": "MEN5030",
+        "GROSS AMT": 12916.0
+    },
+    {
+        "Style": "MEN5031",
+        "GROSS AMT": 12206.0
+    },
+    {
+        "Style": "MEN5032",
+        "GROSS AMT": 12536.0
+    },
+    {
+        "Style": "NW002",
+        "GROSS AMT": 7259.0
+    },
+    {
+        "Style": "NW003",
+        "GROSS AMT": 8222.0
+    },
+    {
+        "Style": "NW005",
+        "GROSS AMT": 1683.0
+    },
+    {
+        "Style": "NW006",
+        "GROSS AMT": 9628.0
+    },
+    {
+        "Style": "NW008",
+        "GROSS AMT": 1796.0
+    },
+    {
+        "Style": "NW009",
+        "GROSS AMT": 824.0
+    },
+    {
+        "Style": "NW012",
+        "GROSS AMT": 18448.0
+    },
+    {
+        "Style": "NW013",
+        "GROSS AMT": 3727.0
+    },
+    {
+        "Style": "NW014",
+        "GROSS AMT": 8500.0
+    },
+    {
+        "Style": "NW016",
+        "GROSS AMT": 1562.0
+    },
+    {
+        "Style": "NW020",
+        "GROSS AMT": 7620.0
+    },
+    {
+        "Style": "NW027",
+        "GROSS AMT": 7894.0
+    },
+    {
+        "Style": "NW029",
+        "GROSS AMT": 1803.0
+    },
+    {
+        "Style": "NW030",
+        "GROSS AMT": 9260.0
+    },
+    {
+        "Style": "NW031",
+        "GROSS AMT": 4030.0
+    },
+    {
+        "Style": "NW032",
+        "GROSS AMT": 803.0
+    },
+    {
+        "Style": "NW036",
+        "GROSS AMT": 8260.0
+    },
+    {
+        "Style": "PJ0096",
+        "GROSS AMT": 19685.0
+    },
+    {
+        "Style": "PJNE1906",
+        "GROSS AMT": 8058.0
+    },
+    {
+        "Style": "PJNE2014",
+        "GROSS AMT": 8022.0
+    },
+    {
+        "Style": "PJNE2100",
+        "GROSS AMT": 10072.0
+    },
+    {
+        "Style": "PJNE2171",
+        "GROSS AMT": 4737.0
+    },
+    {
+        "Style": "PJNE2199",
+        "GROSS AMT": 3530.0
+    },
+    {
+        "Style": "PJNE2270",
+        "GROSS AMT": 7164.0
+    },
+    {
+        "Style": "PJNE3068",
+        "GROSS AMT": 4506.0
+    },
+    {
+        "Style": "PJNE3252",
+        "GROSS AMT": 11218.0
+    },
+    {
+        "Style": "PJNE3363",
+        "GROSS AMT": 3412.0
+    },
+    {
+        "Style": "PJNE3364",
+        "GROSS AMT": 5346.0
+    },
+    {
+        "Style": "PJNE3373",
+        "GROSS AMT": 1474.0
+    },
+    {
+        "Style": "PJNE3399",
+        "GROSS AMT": 7288.0
+    },
+    {
+        "Style": "PJNE3404",
+        "GROSS AMT": 1517.0
+    },
+    {
+        "Style": "PJNE3405",
+        "GROSS AMT": 15090.0
+    },
+    {
+        "Style": "PJNE3421",
+        "GROSS AMT": 4502.0
+    },
+    {
+        "Style": "PJNE3423",
+        "GROSS AMT": 8498.0
+    },
+    {
+        "Style": "PJNE3439",
+        "GROSS AMT": 6434.0
+    },
+    {
+        "Style": "PJNE3440",
+        "GROSS AMT": 18864.0
+    },
+    {
+        "Style": "PJNE3445",
+        "GROSS AMT": 8980.0
+    },
+    {
+        "Style": "PJNE3568",
+        "GROSS AMT": 5219.0
+    },
+    {
+        "Style": "PSET264",
+        "GROSS AMT": 6658.0
+    },
+    {
+        "Style": "PSET268",
+        "GROSS AMT": 7629.0
+    },
+    {
+        "Style": "SAR027",
+        "GROSS AMT": 1326.0
+    },
+    {
+        "Style": "SAR029",
+        "GROSS AMT": 661.0
+    },
+    {
+        "Style": "SAR031",
+        "GROSS AMT": 1698.0
+    },
+    {
+        "Style": "SAR033",
+        "GROSS AMT": 5994.0
+    },
+    {
+        "Style": "SAR038",
+        "GROSS AMT": 1628.0
+    },
+    {
+        "Style": "SAR043",
+        "GROSS AMT": 2600.0
+    },
+    {
+        "Style": "SAR044",
+        "GROSS AMT": 2710.0
+    },
+    {
+        "Style": "SAR045",
+        "GROSS AMT": 3298.0
+    },
+    {
+        "Style": "SAR046",
+        "GROSS AMT": 2746.0
+    },
+    {
+        "Style": "SAR049",
+        "GROSS AMT": 1380.0
+    },
+    {
+        "Style": "SAR050",
+        "GROSS AMT": 1198.0
+    },
+    {
+        "Style": "SAR054",
+        "GROSS AMT": 1049.0
+    },
+    {
+        "Style": "SAR070",
+        "GROSS AMT": 2122.0
+    },
+    {
+        "Style": "SAR079",
+        "GROSS AMT": 7386.0
+    },
+    {
+        "Style": "SAR086",
+        "GROSS AMT": 7386.0
+    },
+    {
+        "Style": "SAR101",
+        "GROSS AMT": 561.0
+    },
+    {
+        "Style": "SAR102",
+        "GROSS AMT": 1122.0
+    },
+    {
+        "Style": "SAR103",
+        "GROSS AMT": 1122.0
+    },
+    {
+        "Style": "SAR105",
+        "GROSS AMT": 561.0
+    },
+    {
+        "Style": "SAR108",
+        "GROSS AMT": 561.0
+    },
+    {
+        "Style": "SAR110",
+        "GROSS AMT": 561.0
+    },
+    {
+        "Style": "SET014",
+        "GROSS AMT": 17858.0
+    },
+    {
+        "Style": "SET036",
+        "GROSS AMT": 467.0
+    },
+    {
+        "Style": "SET037",
+        "GROSS AMT": 21289.0
+    },
+    {
+        "Style": "SET038",
+        "GROSS AMT": 66469.0
+    },
+    {
+        "Style": "SET043",
+        "GROSS AMT": 76921.0
+    },
+    {
+        "Style": "SET044",
+        "GROSS AMT": 30242.0
+    },
+    {
+        "Style": "SET048",
+        "GROSS AMT": 3888.0
+    },
+    {
+        "Style": "SET053",
+        "GROSS AMT": 6845.0
+    },
+    {
+        "Style": "SET055",
+        "GROSS AMT": 24618.0
+    },
+    {
+        "Style": "SET058",
+        "GROSS AMT": 70935.0
+    },
+    {
+        "Style": "SET062",
+        "GROSS AMT": 37198.0
+    },
+    {
+        "Style": "SET073",
+        "GROSS AMT": 27159.0
+    },
+    {
+        "Style": "SET075",
+        "GROSS AMT": 13710.0
+    },
+    {
+        "Style": "SET083",
+        "GROSS AMT": 12302.0
+    },
+    {
+        "Style": "SET087",
+        "GROSS AMT": 1211.0
+    },
+    {
+        "Style": "SET094",
+        "GROSS AMT": 23268.0
+    },
+    {
+        "Style": "SET097",
+        "GROSS AMT": 10792.0
+    },
+    {
+        "Style": "SET098",
+        "GROSS AMT": 86779.0
+    },
+    {
+        "Style": "SET100",
+        "GROSS AMT": 10666.0
+    },
+    {
+        "Style": "SET110",
+        "GROSS AMT": 102440.0
+    },
+    {
+        "Style": "SET128",
+        "GROSS AMT": 3734.0
+    },
+    {
+        "Style": "SET130",
+        "GROSS AMT": 18016.0
+    },
+    {
+        "Style": "SET131",
+        "GROSS AMT": 16035.0
+    },
+    {
+        "Style": "SET132",
+        "GROSS AMT": 1388.0
+    },
+    {
+        "Style": "SET138",
+        "GROSS AMT": 10981.0
+    },
+    {
+        "Style": "SET144",
+        "GROSS AMT": 58780.0
+    },
+    {
+        "Style": "SET145",
+        "GROSS AMT": 11991.0
+    },
+    {
+        "Style": "SET147",
+        "GROSS AMT": 14870.0
+    },
+    {
+        "Style": "SET154",
+        "GROSS AMT": 15832.0
+    },
+    {
+        "Style": "SET156",
+        "GROSS AMT": 14996.0
+    },
+    {
+        "Style": "SET158",
+        "GROSS AMT": 12964.0
+    },
+    {
+        "Style": "SET164",
+        "GROSS AMT": 2905.0
+    },
+    {
+        "Style": "SET171",
+        "GROSS AMT": 29873.0
+    },
+    {
+        "Style": "SET172",
+        "GROSS AMT": 50678.0
+    },
+    {
+        "Style": "SET182",
+        "GROSS AMT": 41345.0
+    },
+    {
+        "Style": "SET183",
+        "GROSS AMT": 16816.0
+    },
+    {
+        "Style": "SET184",
+        "GROSS AMT": 24621.0
+    },
+    {
+        "Style": "SET186",
+        "GROSS AMT": 67779.0
+    },
+    {
+        "Style": "SET187",
+        "GROSS AMT": 27974.0
+    },
+    {
+        "Style": "SET188",
+        "GROSS AMT": 48542.0
+    },
+    {
+        "Style": "SET191",
+        "GROSS AMT": 10649.0
+    },
+    {
+        "Style": "SET193",
+        "GROSS AMT": 43525.0
+    },
+    {
+        "Style": "SET194",
+        "GROSS AMT": 32798.0
+    },
+    {
+        "Style": "SET195",
+        "GROSS AMT": 3698.0
+    },
+    {
+        "Style": "SET196",
+        "GROSS AMT": 28929.0
+    },
+    {
+        "Style": "SET197",
+        "GROSS AMT": 50710.0
+    },
+    {
+        "Style": "SET198",
+        "GROSS AMT": 30104.0
+    },
+    {
+        "Style": "SET199",
+        "GROSS AMT": 40994.0
+    },
+    {
+        "Style": "SET200",
+        "GROSS AMT": 31983.0
+    },
+    {
+        "Style": "SET201",
+        "GROSS AMT": 1797.0
+    },
+    {
+        "Style": "SET202",
+        "GROSS AMT": 938.0
+    },
+    {
+        "Style": "SET203",
+        "GROSS AMT": 16891.0
+    },
+    {
+        "Style": "SET204",
+        "GROSS AMT": 3552.0
+    },
+    {
+        "Style": "SET205",
+        "GROSS AMT": 29033.0
+    },
+    {
+        "Style": "SET206",
+        "GROSS AMT": 994.0
+    },
+    {
+        "Style": "SET209",
+        "GROSS AMT": 14142.0
+    },
+    {
+        "Style": "SET210",
+        "GROSS AMT": 55220.0
+    },
+    {
+        "Style": "SET217",
+        "GROSS AMT": 29659.0
+    },
+    {
+        "Style": "SET218",
+        "GROSS AMT": 9720.0
+    },
+    {
+        "Style": "SET219",
+        "GROSS AMT": 14213.0
+    },
+    {
+        "Style": "SET220",
+        "GROSS AMT": 15289.0
+    },
+    {
+        "Style": "SET221",
+        "GROSS AMT": 34078.0
+    },
+    {
+        "Style": "SET223",
+        "GROSS AMT": 23324.0
+    },
+    {
+        "Style": "SET224",
+        "GROSS AMT": 4563.0
+    },
+    {
+        "Style": "SET225",
+        "GROSS AMT": 37513.0
+    },
+    {
+        "Style": "SET226",
+        "GROSS AMT": 27519.0
+    },
+    {
+        "Style": "SET227",
+        "GROSS AMT": 36286.0
+    },
+    {
+        "Style": "SET228",
+        "GROSS AMT": 19858.0
+    },
+    {
+        "Style": "SET229",
+        "GROSS AMT": 10635.0
+    },
+    {
+        "Style": "SET230",
+        "GROSS AMT": 12749.0
+    },
+    {
+        "Style": "SET231",
+        "GROSS AMT": 3233.0
+    },
+    {
+        "Style": "SET232",
+        "GROSS AMT": 27747.0
+    },
+    {
+        "Style": "SET233",
+        "GROSS AMT": 21992.0
+    },
+    {
+        "Style": "SET234",
+        "GROSS AMT": 4173.0
+    },
+    {
+        "Style": "SET235",
+        "GROSS AMT": 3249.0
+    },
+    {
+        "Style": "SET236",
+        "GROSS AMT": 59501.0
+    },
+    {
+        "Style": "SET238",
+        "GROSS AMT": 16998.0
+    },
+    {
+        "Style": "SET239",
+        "GROSS AMT": 17149.0
+    },
+    {
+        "Style": "SET240",
+        "GROSS AMT": 11279.0
+    },
+    {
+        "Style": "SET241",
+        "GROSS AMT": 1401.0
+    },
+    {
+        "Style": "SET242",
+        "GROSS AMT": 5292.0
+    },
+    {
+        "Style": "SET243",
+        "GROSS AMT": 21181.0
+    },
+    {
+        "Style": "SET244",
+        "GROSS AMT": 46896.0
+    },
+    {
+        "Style": "SET245",
+        "GROSS AMT": 70237.0
+    },
+    {
+        "Style": "SET246",
+        "GROSS AMT": 20697.0
+    },
+    {
+        "Style": "SET247",
+        "GROSS AMT": 4626.0
+    },
+    {
+        "Style": "SET248",
+        "GROSS AMT": 27414.0
+    },
+    {
+        "Style": "SET249",
+        "GROSS AMT": 23878.0
+    },
+    {
+        "Style": "SET250",
+        "GROSS AMT": 26364.0
+    },
+    {
+        "Style": "SET251",
+        "GROSS AMT": 54421.0
+    },
+    {
+        "Style": "SET252",
+        "GROSS AMT": 98874.0
+    },
+    {
+        "Style": "SET253",
+        "GROSS AMT": 30933.0
+    },
+    {
+        "Style": "SET254",
+        "GROSS AMT": 15776.0
+    },
+    {
+        "Style": "SET258",
+        "GROSS AMT": 17375.0
+    },
+    {
+        "Style": "SET260",
+        "GROSS AMT": 3377.0
+    },
+    {
+        "Style": "SET261",
+        "GROSS AMT": 2786.0
+    },
+    {
+        "Style": "SET262",
+        "GROSS AMT": 43111.0
+    },
+    {
+        "Style": "SET263",
+        "GROSS AMT": 14591.0
+    },
+    {
+        "Style": "SET264",
+        "GROSS AMT": 84299.0
+    },
+    {
+        "Style": "SET265",
+        "GROSS AMT": 16373.0
+    },
+    {
+        "Style": "SET266",
+        "GROSS AMT": 61176.0
+    },
+    {
+        "Style": "SET267",
+        "GROSS AMT": 56032.0
+    },
+    {
+        "Style": "SET268",
+        "GROSS AMT": 215642.0
+    },
+    {
+        "Style": "SET269",
+        "GROSS AMT": 46230.0
+    },
+    {
+        "Style": "SET270",
+        "GROSS AMT": 23416.0
+    },
+    {
+        "Style": "SET271",
+        "GROSS AMT": 4990.0
+    },
+    {
+        "Style": "SET272",
+        "GROSS AMT": 24927.0
+    },
+    {
+        "Style": "SET273",
+        "GROSS AMT": 37182.0
+    },
+    {
+        "Style": "SET274",
+        "GROSS AMT": 2152.0
+    },
+    {
+        "Style": "SET275",
+        "GROSS AMT": 57375.0
+    },
+    {
+        "Style": "SET276",
+        "GROSS AMT": 26242.0
+    },
+    {
+        "Style": "SET277",
+        "GROSS AMT": 14181.0
+    },
+    {
+        "Style": "SET278",
+        "GROSS AMT": 30002.0
+    },
+    {
+        "Style": "SET279",
+        "GROSS AMT": 11032.0
+    },
+    {
+        "Style": "SET280",
+        "GROSS AMT": 5932.0
+    },
+    {
+        "Style": "SET281",
+        "GROSS AMT": 21742.0
+    },
+    {
+        "Style": "SET282",
+        "GROSS AMT": 26214.0
+    },
+    {
+        "Style": "SET285",
+        "GROSS AMT": 16223.0
+    },
+    {
+        "Style": "SET286",
+        "GROSS AMT": 35766.0
+    },
+    {
+        "Style": "SET287",
+        "GROSS AMT": 42939.0
+    },
+    {
+        "Style": "SET289",
+        "GROSS AMT": 26072.0
+    },
+    {
+        "Style": "SET290",
+        "GROSS AMT": 16644.0
+    },
+    {
+        "Style": "SET291",
+        "GROSS AMT": 23912.0
+    },
+    {
+        "Style": "SET293",
+        "GROSS AMT": 22579.0
+    },
+    {
+        "Style": "SET295",
+        "GROSS AMT": 30567.0
+    },
+    {
+        "Style": "SET297",
+        "GROSS AMT": 20982.0
+    },
+    {
+        "Style": "SET300",
+        "GROSS AMT": 32389.0
+    },
+    {
+        "Style": "SET301",
+        "GROSS AMT": 10941.0
+    },
+    {
+        "Style": "SET302",
+        "GROSS AMT": 21529.0
+    },
+    {
+        "Style": "SET303",
+        "GROSS AMT": 12019.0
+    },
+    {
+        "Style": "SET304",
+        "GROSS AMT": 31042.0
+    },
+    {
+        "Style": "SET305",
+        "GROSS AMT": 16582.0
+    },
+    {
+        "Style": "SET306",
+        "GROSS AMT": 54748.0
+    },
+    {
+        "Style": "SET307",
+        "GROSS AMT": 7761.0
+    },
+    {
+        "Style": "SET308",
+        "GROSS AMT": 1518.0
+    },
+    {
+        "Style": "SET311",
+        "GROSS AMT": 3582.0
+    },
+    {
+        "Style": "SET313",
+        "GROSS AMT": 5176.0
+    },
+    {
+        "Style": "SET315",
+        "GROSS AMT": 14144.0
+    },
+    {
+        "Style": "SET316",
+        "GROSS AMT": 60879.0
+    },
+    {
+        "Style": "SET317",
+        "GROSS AMT": 18502.0
+    },
+    {
+        "Style": "SET318",
+        "GROSS AMT": 2708.0
+    },
+    {
+        "Style": "SET319",
+        "GROSS AMT": 17652.0
+    },
+    {
+        "Style": "SET320",
+        "GROSS AMT": 6024.0
+    },
+    {
+        "Style": "SET321",
+        "GROSS AMT": 8716.0
+    },
+    {
+        "Style": "SET322",
+        "GROSS AMT": 3735.0
+    },
+    {
+        "Style": "SET323",
+        "GROSS AMT": 26877.0
+    },
+    {
+        "Style": "SET324",
+        "GROSS AMT": 1308.0
+    },
+    {
+        "Style": "SET325",
+        "GROSS AMT": 13017.0
+    },
+    {
+        "Style": "SET326",
+        "GROSS AMT": 25344.0
+    },
+    {
+        "Style": "SET327",
+        "GROSS AMT": 17376.0
+    },
+    {
+        "Style": "SET328",
+        "GROSS AMT": 36452.0
+    },
+    {
+        "Style": "SET329",
+        "GROSS AMT": 19279.0
+    },
+    {
+        "Style": "SET330",
+        "GROSS AMT": 1458.0
+    },
+    {
+        "Style": "SET331",
+        "GROSS AMT": 16905.0
+    },
+    {
+        "Style": "SET332",
+        "GROSS AMT": 3130.0
+    },
+    {
+        "Style": "SET333",
+        "GROSS AMT": 16102.0
+    },
+    {
+        "Style": "SET334",
+        "GROSS AMT": 24740.0
+    },
+    {
+        "Style": "SET336",
+        "GROSS AMT": 9070.0
+    },
+    {
+        "Style": "SET337",
+        "GROSS AMT": 18599.0
+    },
+    {
+        "Style": "SET338",
+        "GROSS AMT": 1369.0
+    },
+    {
+        "Style": "SET339",
+        "GROSS AMT": 15512.0
+    },
+    {
+        "Style": "SET340",
+        "GROSS AMT": 2505.0
+    },
+    {
+        "Style": "SET341",
+        "GROSS AMT": 5442.0
+    },
+    {
+        "Style": "SET342",
+        "GROSS AMT": 20010.0
+    },
+    {
+        "Style": "SET343",
+        "GROSS AMT": 27356.0
+    },
+    {
+        "Style": "SET344",
+        "GROSS AMT": 3951.0
+    },
+    {
+        "Style": "SET345",
+        "GROSS AMT": 38317.0
+    },
+    {
+        "Style": "SET346",
+        "GROSS AMT": 2102.0
+    },
+    {
+        "Style": "SET347",
+        "GROSS AMT": 30412.0
+    },
+    {
+        "Style": "SET348",
+        "GROSS AMT": 25844.0
+    },
+    {
+        "Style": "SET349",
+        "GROSS AMT": 17680.0
+    },
+    {
+        "Style": "SET350",
+        "GROSS AMT": 20990.0
+    },
+    {
+        "Style": "SET351",
+        "GROSS AMT": 12057.0
+    },
+    {
+        "Style": "SET352",
+        "GROSS AMT": 4708.0
+    },
+    {
+        "Style": "SET353",
+        "GROSS AMT": 7045.0
+    },
+    {
+        "Style": "SET355",
+        "GROSS AMT": 36778.0
+    },
+    {
+        "Style": "SET356",
+        "GROSS AMT": 2563.0
+    },
+    {
+        "Style": "SET358",
+        "GROSS AMT": 28227.0
+    },
+    {
+        "Style": "SET363",
+        "GROSS AMT": 4725.0
+    },
+    {
+        "Style": "SET366",
+        "GROSS AMT": 2677.0
+    },
+    {
+        "Style": "SET372",
+        "GROSS AMT": 3603.0
+    },
+    {
+        "Style": "SET373",
+        "GROSS AMT": 25435.0
+    },
+    {
+        "Style": "SET374",
+        "GROSS AMT": 12587.0
+    },
+    {
+        "Style": "SET375",
+        "GROSS AMT": 14016.0
+    },
+    {
+        "Style": "SET376",
+        "GROSS AMT": 729.0
+    },
+    {
+        "Style": "SET378",
+        "GROSS AMT": 32304.0
+    },
+    {
+        "Style": "SET380",
+        "GROSS AMT": 31050.0
+    },
+    {
+        "Style": "SET383",
+        "GROSS AMT": 9439.0
+    },
+    {
+        "Style": "SET384",
+        "GROSS AMT": 3890.0
+    },
+    {
+        "Style": "SET385",
+        "GROSS AMT": 5658.0
+    },
+    {
+        "Style": "SET386",
+        "GROSS AMT": 5532.0
+    },
+    {
+        "Style": "SET388",
+        "GROSS AMT": 20628.0
+    },
+    {
+        "Style": "SET389",
+        "GROSS AMT": 16314.0
+    },
+    {
+        "Style": "SET392",
+        "GROSS AMT": 8315.0
+    },
+    {
+        "Style": "SET393",
+        "GROSS AMT": 4065.0
+    },
+    {
+        "Style": "SET394",
+        "GROSS AMT": 27876.0
+    },
+    {
+        "Style": "SET395",
+        "GROSS AMT": 5396.0
+    },
+    {
+        "Style": "SET396",
+        "GROSS AMT": 13182.0
+    },
+    {
+        "Style": "SET397",
+        "GROSS AMT": 42848.0
+    },
+    {
+        "Style": "SET405",
+        "GROSS AMT": 15674.0
+    },
+    {
+        "Style": "SET409",
+        "GROSS AMT": 12106.0
+    },
+    {
+        "Style": "SET413",
+        "GROSS AMT": 12818.0
+    },
+    {
+        "Style": "SHIPPING",
+        "GROSS AMT": 0.0
+    },
+    {
+        "Style": "SHIPPING CHARGES",
+        "GROSS AMT": 0.0
+    },
+    {
+        "Style": "Style",
+        "GROSS AMT": 0.0
+    },
+    {
+        "Style": "TAG PRINTING",
+        "GROSS AMT": 0.0
+    },
+    {
+        "Style": "TAGS",
+        "GROSS AMT": 0.0
+    },
+    {
+        "Style": "TAGS(LABOUR)",
+        "GROSS AMT": 0.0
+    }
+]
