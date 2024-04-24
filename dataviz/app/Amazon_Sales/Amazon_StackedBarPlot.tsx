@@ -29,14 +29,13 @@ export default function Amazon_StackedBarPlot() {
 
       {Object.keys(stackplotdata.seriesA).length > 0 && (
         <BarChart
-          width={600}
-          height={300}
           series={[
             { data: stackplotdata.seriesA.data, label: 'Series A', stack: 'total' },
             { data: stackplotdata.seriesB.data, label: 'Series B', stack: 'total' },
             { data: stackplotdata.seriesC.data, label: 'Series C', stack: 'total' },
           ]}
           xAxis={[{ data: categories, scaleType: 'band' }]}
+          height={400}
         />
       )}
     </Fixed_Card>

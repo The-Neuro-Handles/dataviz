@@ -19,7 +19,7 @@ export default function Amazon_Sales() {
   return (
 
     <ThemeProvider theme={theme}>
-      <div>
+      <div className='w-full p-5 grid grid-cols-2 gap-4'>
        
       <Amazon_Linear_Plot/>
       <Amazon_PieChart/>

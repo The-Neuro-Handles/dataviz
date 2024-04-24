@@ -50,7 +50,7 @@ export default function BasicLineChart() {
 
   return chartData.input.length > 0 ? (
     <LineChart 
-    // grid={{ horizontal: true }}
+      grid={{ horizontal: true }}
     
       xAxis={[{ data: chartData.input, label: 'Month' }]}
       series={[
@@ -61,8 +61,7 @@ export default function BasicLineChart() {
         
         
       ]}
-      width={300}
-      height={300}
+      
     />
   ) : (
     <div>Loading...</div>

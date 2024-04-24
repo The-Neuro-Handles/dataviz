@@ -37,8 +37,7 @@ const Amazon_Linear_Plot = () => {
             data: plotdata.y,
           },
         ]}
-        width={500}
-        height={300}
+        height={400}
       />
       </Fixed_Card>
       </>

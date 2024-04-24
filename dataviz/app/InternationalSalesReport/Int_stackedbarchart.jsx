@@ -1,3 +1,4 @@
+'use client';
 import React from 'react';
 import { BarChart } from '@mui/x-charts/BarChart';
 
@@ -8,8 +9,7 @@ const chartSetting = {
       label: 'Gross amount for every size',
     },
   ],
-  width: 500,
-  height: 500, // Adjusted height to fit the chart properly
+ // Adjusted height to fit the chart properly
 };
 
 export default function StackedBarChart() {
@@ -105,14 +105,12 @@ export default function StackedBarChart() {
   }
 
   return (
-    <div style={{ position: 'relative' }}>
+    
       <BarChart
         series={seriesData}
         xAxis={[{ data: customers, scaleType: 'band' }]}
         {...chartSetting} // Spread the chart settings
       />
       
-      
-    </div>
   );
 }

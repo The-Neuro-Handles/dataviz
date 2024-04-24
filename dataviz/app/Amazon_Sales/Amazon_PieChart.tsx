@@ -16,8 +16,7 @@ export default function Amazon_PieChart() {
           ],
         },
       ]}
-      width={400}
-      height={200}
+      height={400}
     />
     </Fixed_Card>
   );

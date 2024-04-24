@@ -11,8 +11,6 @@ const chartSetting = {
         label: 'Count',
       },
     ],
-    width: 500,
-    height: 400,
   };
   
 

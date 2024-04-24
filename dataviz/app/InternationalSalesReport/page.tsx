@@ -19,23 +19,22 @@ const theme = createTheme({
 export default function InternationalSalesReport() {
   return (
     <ThemeProvider theme={theme}>
-    <div className='p-5'>
-    InternationalSalesReport
-      
+      {/* InternationalSalesReport */}
+    <div className='flex w-full p-5 grid grid-cols-2 gap-4'>
       <Fixed_Card>
-        <div><BasicLineChart /></div>
+        <BasicLineChart />
       </Fixed_Card>
 
       <Fixed_Card>
-        <div><HorizontalBars /></div>
+        <HorizontalBars />
       </Fixed_Card>
 
       <Fixed_Card>
-        <div><BasicPie /></div>
+        <BasicPie />
       </Fixed_Card>
 
       <Fixed_Card>
-        <div><StackedBarChart /></div>
+        <StackedBarChart />
       </Fixed_Card>
     </div>
     </ThemeProvider>

@@ -39,8 +39,6 @@ const HorizontalBars = () => {
         label: 'Gross Amount',
       },
     ],
-    width: 500,
-    height: 400,
   };
 
   return (
