@@ -6,7 +6,8 @@ import { createTheme, ThemeProvider } from '@mui/material/styles';
 
 import BasicLineChart from './Int_lineplot';
 import HorizontalBars from './Int_barchart';
-import DynamicPieChart from './Int_piechart';
+import BasicPie from './Int_piechart';
+import StackedBarChart from './Int_stackedbarchart';
 
 const theme = createTheme({
   palette: {
@@ -30,7 +31,11 @@ export default function InternationalSalesReport() {
       </Fixed_Card>
 
       <Fixed_Card>
-        <div><DynamicPieChart /></div>
+        <div><BasicPie /></div>
+      </Fixed_Card>
+
+      <Fixed_Card>
+        <div><StackedBarChart /></div>
       </Fixed_Card>
     </div>
     </ThemeProvider>
