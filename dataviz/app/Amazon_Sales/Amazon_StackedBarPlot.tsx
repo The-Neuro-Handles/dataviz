@@ -1,8 +1,6 @@
-// 
-
-
 import * as React from 'react';
 import { BarChart } from '@mui/x-charts/BarChart';
+import Fixed_Card from '../../components/Fixed_Card'
 
 export default function Amazon_StackedBarPlot() {
   const [stackplotdata, setData] = React.useState({ seriesA: {}, seriesB: {}, seriesC: {} });
@@ -23,9 +21,12 @@ export default function Amazon_StackedBarPlot() {
         console.error('Error at Amazon data:', error);
       });
   }, []);
+  const categories=['kurta', 'Top', 'Set' ,'Western Dress' ,'Ethnic Dress', 'Bottom' ,'Saree',  'Blouse' ,'Dupatta']
 
   return (
-    <>
+
+    <Fixed_Card>
+
       {Object.keys(stackplotdata.seriesA).length > 0 && (
         <BarChart
           width={600}
@@ -35,8 +36,9 @@ export default function Amazon_StackedBarPlot() {
             { data: stackplotdata.seriesB.data, label: 'Series B', stack: 'total' },
             { data: stackplotdata.seriesC.data, label: 'Series C', stack: 'total' },
           ]}
+          xAxis={[{ data: categories, scaleType: 'band' }]}
         />
       )}
-    </>
+    </Fixed_Card>
   );
 }
