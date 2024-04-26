@@ -7,7 +7,7 @@ import Amazon_Linear_Plot from '../Amazon_Sales/Amazon_Linear_Plot';
 import Amazon_PieChart from '../Amazon_Sales/Amazon_PieChart';
 import Amazon_BarPlot from '../Amazon_Sales/Amazon_BarPlot';
 import Amazon_StackedBarPlot from '../Amazon_Sales/Amazon_StackedBarPlot';
-import { Divider, Typography } from '@mui/joy';
+import Typography from '@mui/joy/Typography';
 
 
 import BasicLineChart from '../InternationalSalesReport/Int_barchart';
@@ -34,9 +34,9 @@ function MainDashbord() {
       {/* <Divider orientation="horizontal" flexItem />
       <Typography variant="h6" gutterBottom>Amazon Sales</Typography> */}
       <div className='w-full p-5 gap-4 justify-center items-center'>
-        <Divider orientation="horizontal" flexItem />
-        <Typography variant="h2">Amazon Sales</Typography>
-        <Divider orientation="horizontal" flexItem />
+        {/* <Divider orientation="horizontal" flexItem /> */}
+        <Typography level="h2">Amazon Sales</Typography>
+        {/* <Divider orientation="horizontal" flexItem /> */}
         <div className='w-full p-5 grid grid-cols-2 gap-4'>
           <Amazon_Linear_Plot/>
           <Amazon_PieChart/>
@@ -45,9 +45,9 @@ function MainDashbord() {
           <Amazon_StackedBarPlot/> 
         </div>
         
-        <Divider orientation="horizontal" flexItem />
-        <Typography variant="h2">International Sales</Typography>
-        <Divider orientation="horizontal" flexItem />
+        {/* <Divider orientation="horizontal" flexItem /> */}
+        <Typography level="h2">International Sales</Typography>
+        {/* <Divider orientation="horizontal" flexItem /> */}
         <div className='w-full p-5 grid grid-cols-2 gap-4'>
           <BasicLineChart />
           
@@ -59,9 +59,9 @@ function MainDashbord() {
         </div>
 
 
-        <Divider orientation="horizontal" flexItem />
-        <Typography variant="h2">PL March</Typography>
-        <Divider orientation="horizontal" flexItem />
+        {/* <Divider orientation="horizontal" flexItem /> */}
+        <Typography level="h2">PL March</Typography>
+        {/* <Divider orientation="horizontal" flexItem /> */}
         <div className='w-full p-5 grid grid-cols-1 gap-4'>
           <Sku_MRP />  
           
