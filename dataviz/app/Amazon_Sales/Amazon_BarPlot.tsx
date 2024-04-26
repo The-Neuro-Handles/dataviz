@@ -4,6 +4,7 @@ import Fixed_Card from '../../components/Fixed_Card'
 
 import plot_settings from '@/components/Plot_Settings';
 
+import { Typography } from '@mui/material';
 
 
 const chartSetting = {
@@ -59,10 +60,11 @@ export default function Amazon_BarPlot() {
   return (
     <>
      <Fixed_Card>
+     <Typography variant="h5" component="h2">Quantity of Sales across differnent size of Merchandise</Typography>
     {plotdata && <BarChart 
       dataset={plotdata}
       yAxis={[{ scaleType: 'band', dataKey: "size" }]}
-      series={[{ dataKey: "values", label: 'Seoul rainfall'}]}
+      series={[{ dataKey: "values"}]}
       layout="horizontal"
       grid={{ vertical: true }}
       {...chartSetting}

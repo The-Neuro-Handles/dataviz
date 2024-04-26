@@ -3,6 +3,7 @@ import { BarChart } from '@mui/x-charts/BarChart';
 import Fixed_Card from '../../components/Fixed_Card'
 import plot_settings from '@/components/Plot_Settings';
 
+import { Typography } from '@mui/material';
 
 export default function Amazon_StackedBarPlot() {
   const [stackplotdata, setData] = React.useState({ seriesA: {}, seriesB: {}, seriesC: {} });
@@ -17,10 +18,8 @@ export default function Amazon_StackedBarPlot() {
       })
       .then(data => {
         setData(data);
-        console.log('Data of Amazon Sales:', data);
       })
       .catch(error => {
-        console.error('Error at Amazon data:', error);
       });
   }, []);
   const categories=['kurta', 'Top', 'Set' ,'Western Dress' ,'Ethnic Dress', 'Bottom' ,'Saree',  'Blouse' ,'Dupatta']
@@ -28,13 +27,13 @@ export default function Amazon_StackedBarPlot() {
   return (
 
     <Fixed_Card>
-
+<Typography variant="h5" component="h2">Status of shipment across different size of Merchandise</Typography>
       {Object.keys(stackplotdata.seriesA).length > 0 && (
         <BarChart
           series={[
-            { data: stackplotdata.seriesA.data, label: 'Series A', stack: 'total' },
-            { data: stackplotdata.seriesB.data, label: 'Series B', stack: 'total' },
-            { data: stackplotdata.seriesC.data, label: 'Series C', stack: 'total' },
+            { data: stackplotdata.seriesA.data, label: 'Shipped', stack: 'total' },
+            { data: stackplotdata.seriesB.data, label: 'Pending', stack: 'total' },
+            { data: stackplotdata.seriesC.data, label: 'Cancelled', stack: 'total' },
           ]}
           xAxis={[{ data: categories, scaleType: 'band' }]}
           height={400}

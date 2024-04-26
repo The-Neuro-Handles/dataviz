@@ -4,6 +4,7 @@ import { LineChart } from '@mui/x-charts/LineChart';
 import Fixed_Card from '../../components/Fixed_Card'
 
 import plot_settings from '@/components/Plot_Settings';
+import { Typography } from '@mui/material';
 
 
 const Amazon_Linear_Plot = () => {
@@ -20,8 +21,6 @@ const Amazon_Linear_Plot = () => {
   })
   .then(data => {
     dataLinear(data);
-    // Use the parsed JSON data
-    console.log('Data:', data);
   })
   .catch(error => {
     console.error('Error at Amazon data:', error);
@@ -32,6 +31,7 @@ const Amazon_Linear_Plot = () => {
     return (
       <>
       <Fixed_Card>
+      <Typography variant="h5" component="h2">Sale Quantity vs Months</Typography>
       <LineChart
         xAxis={[{ data: plotdata.x }]}
         series={[
