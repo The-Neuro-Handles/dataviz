@@ -6,91 +6,55 @@ import Typography from '@mui/joy/Typography';
 
 import { BarChart } from '@mui/x-charts/BarChart';
 import Fixed_Card from '@/components/Fixed_Card';
+import plot_settings from '@/components/Plot_Settings';
 
 
-const barChartsParams = {
-    series: [
-      {
-        id: 'series-1',
-        data: [3, 4, 1, 6, 5],
-        label: 'A',
-        stack: 'total',
-        highlightScope: {
-          highlighted: 'item',
-        },
-      },
-      {
-        id: 'series-2',
-        data: [4, 3, 1, 5, 8],
-        label: 'B',
-        stack: 'total',
-        highlightScope: {
-          highlighted: 'item',
-        },
-      },
-      {
-        id: 'series-3',
-        data: [4, 2, 5, 4, 1],
-        label: 'C',
-        highlightScope: {
-          highlighted: 'item',
-        },
-      },
-    ],
-    xAxis: [{ data: ['0', '3', '6', '9', '12'], scaleType: 'band', id: 'axis1' }],
-    height: 400,
-  };
+const data = {
+  "2XL": { "Breeze-4": 6.0, "Colors-7": 7.0, "Colors-8": 8.0, "Four Gems 2": 4.0, "Mix": 124.0, "Moments": 6.0, "Rozana": 8.0, "Surmaya": 32.0 },
+  "2XLL": { "Breeze-4": 0.0, "Colors-7": 0.0, "Colors-8": 0.0, "Four Gems 2": 0.0, "Mix": 1.0, "Moments": 0.0, "Rozana": 0.0, "Surmaya": 0.0 },
+  "3XL": { "Breeze-4": 6.0, "Colors-7": 7.0, "Colors-8": 8.0, "Four Gems 2": 4.0, "Mix": 120.0, "Moments": 6.0, "Rozana": 8.0, "Surmaya": 32.0 },
+  "L": { "Breeze-4": 6.0, "Colors-7": 7.0, "Colors-8": 8.0, "Four Gems 2": 4.0, "Mix": 135.0, "Moments": 6.0, "Rozana": 8.0, "Surmaya": 32.0 },
+  "M": { "Breeze-4": 6.0, "Colors-7": 7.0, "Colors-8": 8.0, "Four Gems 2": 4.0, "Mix": 134.0, "Moments": 6.0, "Rozana": 8.0, "Surmaya": 32.0 },
+  "MM": { "Breeze-4": 0.0, "Colors-7": 0.0, "Colors-8": 0.0, "Four Gems 2": 0.0, "Mix": 1.0, "Moments": 0.0, "Rozana": 0.0, "Surmaya": 0.0 },
+  "S": { "Breeze-4": 6.0, "Colors-7": 7.0, "Colors-8": 8.0, "Four Gems 2": 4.0, "Mix": 132.0, "Moments": 6.0, "Rozana": 8.0, "Surmaya": 32.0 },
+  "XL": { "Breeze-4": 6.0, "Colors-7": 7.0, "Colors-8": 8.0, "Four Gems 2": 4.0, "Mix": 133.0, "Moments": 6.0, "Rozana": 8.0, "Surmaya": 32.0 },
+  "XS": { "Breeze-4": 0.0, "Colors-7": 1.0, "Colors-8": 0.0, "Four Gems 2": 0.0, "Mix": 14.0, "Moments": 0.0, "Rozana": 0.0, "Surmaya": 0.0 }
+};
+
+
+const series = [];
+const xAxis = [{ data: [], scaleType: 'band', id: 'axis1' }];
+
+// Extract data for series
+Object.entries(data).forEach(([sku, values], index) => {
+  const dataValues = Object.values(values);
+  series.push({
+    id: `series-${index + 1}`,
+    data: dataValues,
+    label: sku,
+  });
+});
+
+// Extract xAxis data
+const categories = Object.keys(data);
+xAxis[0].data = categories//.map((_, index) => String(index * 3));
+
+const formattedData = {
+  series,
+  xAxis,
+  height: 400,
+};
+
+
+
+
 
 
 export default function Sku_MRP() {
-  const [sku,setSku] = React.useState([]);
-  React.useEffect(() => { 
-    d3.csv("https://raw.githubusercontent.com/The-Neuro-Handles/dataviz/pp_data_preprocessing/cleaned_dataset/PLMarch_Data/Sku_Catalog.csv").then(function(data) {
-        const cols = Object.keys(data[0]).filter(key => key !== 'Sku');
-        const fin = {}
-        data.forEach(obj => {
-          fin[obj.Sku] = []
-          cols.forEach(col => {
-            fin[obj.Sku].push(obj[col])
-          });
-        })
-        setSku(fin);
-    });
-  }, []);
-  console.log(sku)
+ 
+  //console.log("some",formattedData);
+  const [itemData, setItemData] = React.useState(null);
 
-  const barChartsParams = {
-    series: [
-      {
-        id: 'series-1',
-        data: [3, 4, 1, 6, 5],
-        label: 'A',
-        stack: 'total',
-        highlightScope: {
-          highlighted: 'item',
-        },
-      },
-      {
-        id: 'series-2',
-        data: [4, 3, 1, 5, 8],
-        label: 'B',
-        stack: 'total',
-        highlightScope: {
-          highlighted: 'item',
-        },
-      },
-      {
-        id: 'series-3',
-        data: [4, 2, 5, 4, 1],
-        label: 'C',
-        highlightScope: {
-          highlighted: 'item',
-        },
-      },
-    ],
-    xAxis: [{ data: ['0', '3', '6', '9', '12'], scaleType: 'band', id: 'axis1' }],
-    height: 400,
-  };
  
   return (
     <Fixed_Card>
@@ -99,9 +63,10 @@ export default function Sku_MRP() {
         </Typography>
         
         <BarChart
-        {...barChartsParams}
+        {...formattedData}
         onItemClick={(event, d) => setItemData(d)}
         onAxisClick={(event, d) => setAxisData(d)}
+        colors={plot_settings.colors}
         ></BarChart>
     </Fixed_Card>
   )

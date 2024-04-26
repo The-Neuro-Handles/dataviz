@@ -1,6 +1,10 @@
 import React, { useState, useEffect } from 'react';
 import { BarChart } from '@mui/x-charts/BarChart';
 
+import plot_settings from '@/components/Plot_Settings';
+import Fixed_Card from '@/components/Fixed_Card';
+import { Typography } from '@mui/joy';
+
 const HorizontalBars = () => {
   const [dataset, setDataset] = useState([]);
 
@@ -42,13 +46,18 @@ const HorizontalBars = () => {
   };
 
   return (
+    <Fixed_Card>
+      <Typography variant="h5" component="h2">Style VS Gross Amount</Typography>
     <BarChart
       dataset={dataset}
       yAxis={[{ scaleType: 'band', dataKey: 'Style' }]}
-      series={[{ dataKey: 'GROSS AMT', label: 'Gross amount for Top 15 Styles', valueFormatter }]}
+      series={[{ dataKey: 'GROSS AMT', label: 'Gross amount for Top 15 Styles' }]}
       layout="horizontal"
       {...chartSetting}
+      colors={plot_settings.colors}
+      height={400}
     />
+    </Fixed_Card>
   );
 };
 

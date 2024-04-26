@@ -1,4 +1,7 @@
+import Fixed_Card from '@/components/Fixed_Card';
 import { LinePlot } from '@mui/x-charts';
+
+import plot_settings from '@/components/Plot_Settings';
 
 // import * as React from 'react';
 
@@ -20,6 +23,7 @@ import { LinePlot } from '@mui/x-charts';
 
 import { LineChart } from '@mui/x-charts/LineChart';
 import React, { useState, useEffect } from 'react';
+import { Typography } from '@mui/joy';
 
 
 
@@ -46,13 +50,17 @@ export default function BasicLineChart() {
         console.error('Error fetching data:', error);
       });
   }, []);
-  
+  const customColors = ["#1984c5", "#22a7f0", "#63bff0", "#a7d5ed", "#e2e2e2", "#e1a692", "#de6e56", "#e14b31", "#c23728"];
+  //console.log(plot_settings)
 
   return chartData.input.length > 0 ? (
+    <Fixed_Card>
+      <Typography variant="h5" component="h2">Montly Gross Amout Sales</Typography>
     <LineChart 
       grid={{ horizontal: true }}
     
-      xAxis={[{ data: chartData.input, label: 'Month' }]}
+      xAxis={[{ data: chartData.input, label: 'Month'}]}
+      yAxis={[{  tickLabelStyle:{angle:-45,fontSize:10} }]}
       series={[
         {
           data: chartData.output,
@@ -61,10 +69,15 @@ export default function BasicLineChart() {
         
         
       ]}
+      colors={plot_settings.colors}
       
+      height={400}
     />
+    </Fixed_Card>
   ) : (
+    <Fixed_Card>
     <div>Loading...</div>
+    </Fixed_Card>
   );
 }
 

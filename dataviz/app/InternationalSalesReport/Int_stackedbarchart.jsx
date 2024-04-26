@@ -1,7 +1,9 @@
 'use client';
 import React from 'react';
 import { BarChart } from '@mui/x-charts/BarChart';
-
+import plot_settings from '@/components/Plot_Settings';
+import Fixed_Card from '@/components/Fixed_Card';
+import { Typography } from '@mui/joy';
 
 const chartSetting = {
   yAxis: [
@@ -91,7 +93,7 @@ export default function StackedBarChart() {
   const customers = Object.keys(data);
   const sizes = Array.from(new Set(Object.values(data).flatMap(customerData => Object.keys(customerData))));
   const seriesData = [];
-  const colors = ['red', 'green', 'blue', 'orange', 'purple', 'cyan', 'magenta', 'yellow']; // Define colors for each size
+  //const colors = ['red', 'green', 'blue', 'orange', 'purple', 'cyan', 'magenta', 'yellow']; // Define colors for each size
   let colorIndex = 0;
 
   for (const size of sizes) {
@@ -99,18 +101,21 @@ export default function StackedBarChart() {
     for (const customer of customers) {
       sizeData.push(data[customer][size] || 0);
     }
-    seriesData.push({ data: sizeData, color: colors[colorIndex], label: size }); // Assign color and label to each series
-    colorIndex = (colorIndex + 1) % colors.length; // Loop through colors
+    seriesData.push({ data: sizeData, label: size }); // Assign color and label to each series
+    //colorIndex = (colorIndex + 1) % colors.length; // Loop through colors
 
   }
 
   return (
-    
+    <Fixed_Card>
+      <Typography variant="h5" component="h2">Gross Amount Across Size and Style</Typography>
       <BarChart
         series={seriesData}
         xAxis={[{ data: customers, scaleType: 'band' }]}
         {...chartSetting} // Spread the chart settings
+        colors={plot_settings.colors}
+        height={400}
       />
-      
+      </Fixed_Card>
   );
 }

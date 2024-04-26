@@ -1,11 +1,16 @@
 import * as React from 'react';
 import { PieChart } from '@mui/x-charts/PieChart';
+import Fixed_Card from '@/components/Fixed_Card';
+import Typography from '@mui/joy/Typography';
 
 export default function BasicPie() {
   // Custom colors suitable for a dark background
-  const customColors = ['#FFC107', '#03A9F4', '#4CAF50', '#FF5722', '#9C27B0', '#673AB7', '#FF9800', '#2196F3', '#8BC34A', '#FF5252', '#00BCD4', '#FFEB3B'];
+  const customColors = ["#1984c5", "#22a7f0", "#63bff0", "#a7d5ed", "#e2e2e2", "#e1a692", "#de6e56", "#e14b31", "#c23728"];
+
 
   return (
+    <Fixed_Card>
+      <Typography variant="h5" component="h2">Total Gross with Size Chart</Typography>
     <PieChart
       series={[
         {
@@ -26,6 +31,8 @@ export default function BasicPie() {
         },
       ]}
       colors={customColors}
+      height={400}
     />
+    </Fixed_Card>
   );
 }

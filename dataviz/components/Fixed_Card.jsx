@@ -17,7 +17,8 @@ export default function Fixed_Card({children}) {
         textAlign: 'center',
         alignItems: 'center',
         width: "auto",
-        maxHeight: '100%',
+        maxHeight: '400',
+        overflow: 'auto',
       }}
       
     >

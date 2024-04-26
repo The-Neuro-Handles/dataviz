@@ -21,21 +21,21 @@ export default function InternationalSalesReport() {
     <ThemeProvider theme={theme}>
       {/* InternationalSalesReport */}
     <div className='flex w-full p-5 grid grid-cols-2 gap-4'>
-      <Fixed_Card>
+      
         <BasicLineChart />
-      </Fixed_Card>
-
-      <Fixed_Card>
+      
         <HorizontalBars />
-      </Fixed_Card>
-
-      <Fixed_Card>
+      
         <BasicPie />
-      </Fixed_Card>
-
-      <Fixed_Card>
+      
         <StackedBarChart />
-      </Fixed_Card>
+      
+      
+      {/* <Fixed_Card>
+      <iframe src="https://vizhub.com/porallapradhyumna/c4fff342ebe64159a1f8fa74de95278d?mode=embed" width={600} height={400} style={{background:'transparent'}} ></iframe>
+      </Fixed_Card> */}
+
+
     </div>
     </ThemeProvider>
   )

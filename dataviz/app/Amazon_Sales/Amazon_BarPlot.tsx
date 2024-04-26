@@ -2,6 +2,7 @@ import * as React from 'react';
 import { BarChart } from '@mui/x-charts/BarChart';
 import Fixed_Card from '../../components/Fixed_Card'
 
+import plot_settings from '@/components/Plot_Settings';
 
 
 
@@ -65,6 +66,7 @@ export default function Amazon_BarPlot() {
       layout="horizontal"
       grid={{ vertical: true }}
       {...chartSetting}
+      colors={plot_settings.colors}
     />}
     </Fixed_Card>
     </>

@@ -3,6 +3,8 @@ import * as d3 from "d3";
 import { LineChart } from '@mui/x-charts/LineChart';
 import Fixed_Card from '../../components/Fixed_Card'
 
+import plot_settings from '@/components/Plot_Settings';
+
 
 const Amazon_Linear_Plot = () => {
   
@@ -38,6 +40,7 @@ const Amazon_Linear_Plot = () => {
           },
         ]}
         height={400}
+        colors={plot_settings.colors}
       />
       </Fixed_Card>
       </>

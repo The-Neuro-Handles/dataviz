@@ -1,6 +1,8 @@
 import * as React from 'react';
 import { BarChart } from '@mui/x-charts/BarChart';
 import Fixed_Card from '../../components/Fixed_Card'
+import plot_settings from '@/components/Plot_Settings';
+
 
 export default function Amazon_StackedBarPlot() {
   const [stackplotdata, setData] = React.useState({ seriesA: {}, seriesB: {}, seriesC: {} });
@@ -36,6 +38,7 @@ export default function Amazon_StackedBarPlot() {
           ]}
           xAxis={[{ data: categories, scaleType: 'band' }]}
           height={400}
+          colors={plot_settings.colors}
         />
       )}
     </Fixed_Card>

@@ -27,6 +27,8 @@ export default function Amazon_Sales() {
       <Amazon_BarPlot/>  
       <Amazon_StackedBarPlot/> 
 
+      
+
       </div>     
     </ThemeProvider>
   )
