@@ -21,6 +21,6 @@
       "@/*": ["./*"]
     }
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts", "app/Datasets/page.jsx"],
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts", "app/Datasets/page.jsx", "app/Amazon_Sales/Amazon_StackedBarPlot.jsx", "app/Amazon_Sales/Amazon_PieChart.jsx", "app/Amazon_Sales/Amazon_Linear_Plot.jsx", "app/Amazon_Sales/Amazon_BarPlot.jsx"],
   "exclude": ["node_modules"]
 }

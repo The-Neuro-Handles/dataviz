@@ -19,7 +19,7 @@ const chartSetting = {
 
 export default function Amazon_BarPlot() {
 
-  const [plotdata,dataLinear] = React.useState(null);
+  const [plotdata,setdataLinear] = React.useState(null);
   React.useEffect(() => {
     fetch('https://raw.githubusercontent.com/The-Neuro-Handles/dataviz/ai_preprocessing_amazon/cleaned_dataset/Amazon_Data/amazon_barplot_sizes.json')
   .then(response => {
@@ -43,14 +43,16 @@ export default function Amazon_BarPlot() {
     // Push the object to the converted data array
     convertedData.push(obj);}
 
-    dataLinear(convertedData);
+    
 
     // Use the parsed JSON data
     console.log('Data:', convertedData);
+    setdataLinear(convertedData);
   })
   .catch(error => {
     console.error('Error at Amazon data:', error);
   });
+  
 
   }, []);
   
